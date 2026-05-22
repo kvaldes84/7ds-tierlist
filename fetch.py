@@ -1,43 +1,37 @@
-import requests
-from bs4 import BeautifulSoup
 import json
+import re
 from datetime import datetime, timezone
+from playwright.sync_api import sync_playwright
 
 URL = "https://gamewith.jp/7taizai/article/show/158813"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Cache-Control": "no-cache",
-    "Pragma": "no-cache",
-    "Sec-Fetch-Dest": "document",
-    "Sec-Fetch-Mode": "navigate",
-    "Sec-Fetch-Site": "none",
-    "Upgrade-Insecure-Requests": "1",
-}
-
-def fetch():
-    session = requests.Session()
-    # Prime session with a root visit first (reduces bot detection)
-    try:
-        session.get("https://gamewith.jp", headers=HEADERS, timeout=15)
-    except Exception:
-        pass
-    r = session.get(URL, headers=HEADERS, timeout=15)
-    print(f"HTTP {r.status_code}")
-    r.raise_for_status()
-    return r.text
+def fetch_with_playwright():
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            locale="ja-JP",
+            extra_http_headers={"Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8"}
+        )
+        page = context.new_page()
+        print(f"Navigating to {URL}")
+        page.goto(URL, wait_until="networkidle", timeout=60000)
+        # Wait for images to lazy-load
+        page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        page.wait_for_timeout(3000)
+        html = page.content()
+        browser.close()
+        print(f"Page fetched. HTML length: {len(html)}")
+        return html
 
 def parse(html):
+    from bs4 import BeautifulSoup
     soup = BeautifulSoup(html, "lxml")
     tables = soup.find_all("table")
     if not tables:
         print("WARNING: No <table> elements found.")
         return []
 
-    # Use largest table
     target = max(tables, key=lambda t: len(str(t)))
     rows_out = []
 
@@ -48,8 +42,10 @@ def parse(html):
             img = cell.find("img")
             img_src = None
             if img:
-                img_src = img.get("data-src") or img.get("src")
-                # Make absolute
+                # Prefer src over data-src since page is fully rendered
+                img_src = img.get("src") or img.get("data-src")
+                if img_src and "transparent" in img_src:
+                    img_src = img.get("data-src") or img.get("data-original") or None
                 if img_src and img_src.startswith("//"):
                     img_src = "https:" + img_src
                 elif img_src and img_src.startswith("/"):
@@ -65,10 +61,9 @@ def parse(html):
 
 def main():
     try:
-        html = fetch()
+        html = fetch_with_playwright()
     except Exception as e:
         print(f"Fetch failed: {e}")
-        # Write error state so Apps Script knows
         with open("data.json", "w", encoding="utf-8") as f:
             json.dump({
                 "updated": datetime.now(timezone.utc).isoformat(),
