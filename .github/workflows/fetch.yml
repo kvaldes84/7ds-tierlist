@@ -1,35 +1,95 @@
-name: Fetch GameWith Tier List
+// ============================================================
+// CONFIGURATION
+// Replace YOUR_GITHUB_USERNAME and YOUR_REPO_NAME below
+// ============================================================
+const DATA_URL = "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/data.json";
+const CACHE_DURATION_SECONDS = 3600;
 
-on:
-  schedule:
-    - cron: '0 * * * *'  # Every hour
-  workflow_dispatch:       # Manual trigger button in GitHub UI
+// ============================================================
+// WEB APP ENTRY POINT
+// ============================================================
+function doGet(e) {
+  return HtmlService.createHtmlOutputFromFile("Index")
+    .setTitle("7 Deadly Sins: Grand Cross – EN Tier List")
+    .setXFrameOptionsMode(HtmlService.XFrameOptionsMode.ALLOWALL);
+}
 
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+// ============================================================
+// API ENDPOINT — called by frontend via google.script.run
+// ============================================================
+function getTableData() {
+  const cache = CacheService.getScriptCache();
+  const cached = cache.get("table_data");
+  if (cached) return cached;
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+  const raw = fetchJson();
+  if (!raw) return JSON.stringify({ error: "Failed to fetch data.json from GitHub." });
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+  // Translate Japanese text to English
+  let parsed;
+  try { parsed = JSON.parse(raw); }
+  catch (e) { return JSON.stringify({ error: "Invalid JSON from GitHub: " + e.message }); }
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml
+  if (parsed.error) return JSON.stringify({ error: parsed.error });
 
-      - name: Fetch and parse
-        run: python fetch.py
+  parsed.rows = translateData(parsed.rows);
+  const result = JSON.stringify(parsed);
+  cache.put("table_data", result, CACHE_DURATION_SECONDS);
+  return result;
+}
 
-      - name: Commit data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git diff --staged --quiet || git commit -m "Update tier list data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git push
+// ============================================================
+// FETCH data.json from GitHub (raw content, no IP block)
+// ============================================================
+function fetchJson() {
+  try {
+    const options = { muteHttpExceptions: true };
+    const response = UrlFetchApp.fetch(DATA_URL, options);
+    const code = response.getResponseCode();
+    Logger.log("GitHub fetch HTTP: " + code);
+    if (code === 200) return response.getContentText("UTF-8");
+    Logger.log("Response: " + response.getContentText());
+    return null;
+  } catch (e) {
+    Logger.log("Fetch error: " + e.message);
+    return null;
+  }
+}
+
+// ============================================================
+// TRANSLATE
+// ============================================================
+function translateData(rows) {
+  if (!rows) return [];
+  return rows.map(row => {
+    const translatedCells = row.cells.map(cell => {
+      if (!cell.text || cell.text.length === 0) return cell;
+      try {
+        const translated = LanguageApp.translate(cell.text, "ja", "en");
+        return { ...cell, textEN: translated, textJA: cell.text };
+      } catch (e) {
+        return { ...cell, textEN: cell.text, textJA: cell.text };
+      }
+    });
+    return { ...row, cells: translatedCells };
+  });
+}
+
+// ============================================================
+// DIAGNOSTICS
+// ============================================================
+function diagnose() {
+  Logger.log("Fetching: " + DATA_URL);
+  const result = fetchJson();
+  if (result) {
+    Logger.log("SUCCESS. Length: " + result.length);
+    Logger.log("Preview: " + result.substring(0, 500));
+  } else {
+    Logger.log("FAILED.");
+  }
+}
+
+function clearCache() {
+  CacheService.getScriptCache().remove("table_data");
+  Logger.log("Cache cleared.");
+}
