@@ -1,5 +1,9056 @@
 {
-  "updated": "2026-06-05T19:45:41.624903+00:00",
-  "error": "HTTP 403 — GameWith blocked the request even with headless browser.",
-  "rows": []
+  "updated": "2026-06-05T21:20:28.946483+00:00",
+  "source": "https://gamewith.jp/7taizai/article/show/158813",
+  "rows": [
+    {
+      "cells": [
+        {
+          "text": "キャラ名",
+          "imgSrc": null
+        },
+        {
+          "text": "HP",
+          "imgSrc": null
+        },
+        {
+          "text": "攻撃",
+          "imgSrc": null
+        },
+        {
+          "text": "防御",
+          "imgSrc": null
+        },
+        {
+          "text": "闘級",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": true
+    },
+    {
+      "cells": [
+        {
+          "text": "英雄の血統 ランスロット",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/474562_i.png"
+        },
+        {
+          "text": "121,270",
+          "imgSrc": null
+        },
+        {
+          "text": "8,838",
+          "imgSrc": null
+        },
+        {
+          "text": "6,029",
+          "imgSrc": null
+        },
+        {
+          "text": "42,248",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "崩れた均衡 アーサー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/438214_i.png"
+        },
+        {
+          "text": "122,960",
+          "imgSrc": null
+        },
+        {
+          "text": "8,223",
+          "imgSrc": null
+        },
+        {
+          "text": "6,238",
+          "imgSrc": null
+        },
+        {
+          "text": "42,203",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "時代の終焉 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/431617_i.png"
+        },
+        {
+          "text": "118,595",
+          "imgSrc": null
+        },
+        {
+          "text": "9,138",
+          "imgSrc": null
+        },
+        {
+          "text": "5,890",
+          "imgSrc": null
+        },
+        {
+          "text": "42,156",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "深海の影 サブナック",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/455015_i.png"
+        },
+        {
+          "text": "121,030",
+          "imgSrc": null
+        },
+        {
+          "text": "8,292",
+          "imgSrc": null
+        },
+        {
+          "text": "6,364",
+          "imgSrc": null
+        },
+        {
+          "text": "41,987",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "七つの大罪 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/561078_i.png"
+        },
+        {
+          "text": "116,670",
+          "imgSrc": null
+        },
+        {
+          "text": "8,469",
+          "imgSrc": null
+        },
+        {
+          "text": "6,739",
+          "imgSrc": null
+        },
+        {
+          "text": "41,911",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "正義の鉄槌 トール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/457841_i.png"
+        },
+        {
+          "text": "119,370",
+          "imgSrc": null
+        },
+        {
+          "text": "8,919",
+          "imgSrc": null
+        },
+        {
+          "text": "5,780",
+          "imgSrc": null
+        },
+        {
+          "text": "41,704",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "黄昏の誓い マーリン&エスカノール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/537268_i.png"
+        },
+        {
+          "text": "117,170",
+          "imgSrc": null
+        },
+        {
+          "text": "8,320",
+          "imgSrc": null
+        },
+        {
+          "text": "6,739",
+          "imgSrc": null
+        },
+        {
+          "text": "41,678",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "新時代の王 キング&ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/498548_i.png"
+        },
+        {
+          "text": "116,180",
+          "imgSrc": null
+        },
+        {
+          "text": "8,468",
+          "imgSrc": null
+        },
+        {
+          "text": "6,439",
+          "imgSrc": null
+        },
+        {
+          "text": "41,381",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "最後の未来 スクルド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/520144_i.png"
+        },
+        {
+          "text": "116,280",
+          "imgSrc": null
+        },
+        {
+          "text": "7,993",
+          "imgSrc": null
+        },
+        {
+          "text": "7,056",
+          "imgSrc": null
+        },
+        {
+          "text": "41,241",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "不完全な支配 魔神王",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/511066_i.png"
+        },
+        {
+          "text": "114,200",
+          "imgSrc": null
+        },
+        {
+          "text": "8,597",
+          "imgSrc": null
+        },
+        {
+          "text": "6,661",
+          "imgSrc": null
+        },
+        {
+          "text": "41,178",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖戦の光 エリザベス&メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/480045_i.png"
+        },
+        {
+          "text": "116,380",
+          "imgSrc": null
+        },
+        {
+          "text": "8,637",
+          "imgSrc": null
+        },
+        {
+          "text": "5,967",
+          "imgSrc": null
+        },
+        {
+          "text": "41,128",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "永遠の太陽 エスカノール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/451019_i.png"
+        },
+        {
+          "text": "116,677",
+          "imgSrc": null
+        },
+        {
+          "text": "8,667",
+          "imgSrc": null
+        },
+        {
+          "text": "5,798",
+          "imgSrc": null
+        },
+        {
+          "text": "41,035",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リオネスの光 トリスタン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/531139_i.png"
+        },
+        {
+          "text": "114,980",
+          "imgSrc": null
+        },
+        {
+          "text": "7,993",
+          "imgSrc": null
+        },
+        {
+          "text": "7,056",
+          "imgSrc": null
+        },
+        {
+          "text": "41,022",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "黒に染まった翼 マエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/486102_i.png"
+        },
+        {
+          "text": "114,080",
+          "imgSrc": null
+        },
+        {
+          "text": "8,518",
+          "imgSrc": null
+        },
+        {
+          "text": "6,449",
+          "imgSrc": null
+        },
+        {
+          "text": "40,876",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "平和の旅 ゴウセル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/442851_i.png"
+        },
+        {
+          "text": "117,370",
+          "imgSrc": null
+        },
+        {
+          "text": "8,170",
+          "imgSrc": null
+        },
+        {
+          "text": "5,729",
+          "imgSrc": null
+        },
+        {
+          "text": "40,697",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "絶望の鎖 サロス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/546085_i.png"
+        },
+        {
+          "text": "115,770",
+          "imgSrc": null
+        },
+        {
+          "text": "8,128",
+          "imgSrc": null
+        },
+        {
+          "text": "6,046",
+          "imgSrc": null
+        },
+        {
+          "text": "40,578",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "伝説の大罪人 ゴウセル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/562627_i.png"
+        },
+        {
+          "text": "113,290",
+          "imgSrc": null
+        },
+        {
+          "text": "7,948",
+          "imgSrc": null
+        },
+        {
+          "text": "6,419",
+          "imgSrc": null
+        },
+        {
+          "text": "40,305",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リゼロ スバル&ベアトリス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/557264_i.png"
+        },
+        {
+          "text": "109,250",
+          "imgSrc": null
+        },
+        {
+          "text": "7,078",
+          "imgSrc": null
+        },
+        {
+          "text": "7,551",
+          "imgSrc": null
+        },
+        {
+          "text": "39,660",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "最強の証 ミリム・ナーヴァ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/469760_i.png"
+        },
+        {
+          "text": "111,400",
+          "imgSrc": null
+        },
+        {
+          "text": "8,562",
+          "imgSrc": null
+        },
+        {
+          "text": "5,588",
+          "imgSrc": null
+        },
+        {
+          "text": "39,554",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "太陽 エスカノール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/170518_i.png"
+        },
+        {
+          "text": "107,005",
+          "imgSrc": null
+        },
+        {
+          "text": "9,033",
+          "imgSrc": null
+        },
+        {
+          "text": "6,099",
+          "imgSrc": null
+        },
+        {
+          "text": "39,546",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "追放された混沌 ロキ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/522520_i.png"
+        },
+        {
+          "text": "111,220",
+          "imgSrc": null
+        },
+        {
+          "text": "8,092",
+          "imgSrc": null
+        },
+        {
+          "text": "6,360",
+          "imgSrc": null
+        },
+        {
+          "text": "39,489",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "大地の波 ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/320116_i.png"
+        },
+        {
+          "text": "111,440",
+          "imgSrc": null
+        },
+        {
+          "text": "7,115",
+          "imgSrc": null
+        },
+        {
+          "text": "7,110",
+          "imgSrc": null
+        },
+        {
+          "text": "39,411",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "実像分身 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/193207_i.png"
+        },
+        {
+          "text": "109,520",
+          "imgSrc": null
+        },
+        {
+          "text": "9,040",
+          "imgSrc": null
+        },
+        {
+          "text": "5,696",
+          "imgSrc": null
+        },
+        {
+          "text": "39,401",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "守護の光輝 エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/427386_i.png"
+        },
+        {
+          "text": "108,300",
+          "imgSrc": null
+        },
+        {
+          "text": "8,638",
+          "imgSrc": null
+        },
+        {
+          "text": "6,123",
+          "imgSrc": null
+        },
+        {
+          "text": "39,369",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "アークウィザード めぐみん",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/525734_i.png"
+        },
+        {
+          "text": "106,100",
+          "imgSrc": null
+        },
+        {
+          "text": "8,880",
+          "imgSrc": null
+        },
+        {
+          "text": "6,097",
+          "imgSrc": null
+        },
+        {
+          "text": "39,267",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "十戒 グロキシニア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/178025_i.png"
+        },
+        {
+          "text": "111,090",
+          "imgSrc": null
+        },
+        {
+          "text": "8,310",
+          "imgSrc": null
+        },
+        {
+          "text": "5,851",
+          "imgSrc": null
+        },
+        {
+          "text": "39,244",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "純白の贈り物 エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/532423_i.png"
+        },
+        {
+          "text": "108,300",
+          "imgSrc": null
+        },
+        {
+          "text": "8,398",
+          "imgSrc": null
+        },
+        {
+          "text": "6,339",
+          "imgSrc": null
+        },
+        {
+          "text": "39,223",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "十戒 ガラン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/164105_i.png"
+        },
+        {
+          "text": "110,140",
+          "imgSrc": null
+        },
+        {
+          "text": "7,734",
+          "imgSrc": null
+        },
+        {
+          "text": "6,434",
+          "imgSrc": null
+        },
+        {
+          "text": "39,222",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "S級ハンター 水篠旬",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/504643_i.png"
+        },
+        {
+          "text": "108,440",
+          "imgSrc": null
+        },
+        {
+          "text": "8,095",
+          "imgSrc": null
+        },
+        {
+          "text": "6,235",
+          "imgSrc": null
+        },
+        {
+          "text": "39,092",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "復讐のチェーンソー ロキシー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/393645_i.png"
+        },
+        {
+          "text": "102,210",
+          "imgSrc": null
+        },
+        {
+          "text": "9,515",
+          "imgSrc": null
+        },
+        {
+          "text": "6,225",
+          "imgSrc": null
+        },
+        {
+          "text": "39,083",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "強欲の罪 バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/151265_i.png"
+        },
+        {
+          "text": "107,670",
+          "imgSrc": null
+        },
+        {
+          "text": "8,120",
+          "imgSrc": null
+        },
+        {
+          "text": "6,288",
+          "imgSrc": null
+        },
+        {
+          "text": "39,015",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リゼロ エミリア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/557263_i.png"
+        },
+        {
+          "text": "105,300",
+          "imgSrc": null
+        },
+        {
+          "text": "8,425",
+          "imgSrc": null
+        },
+        {
+          "text": "6,210",
+          "imgSrc": null
+        },
+        {
+          "text": "39,012",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "アークプリースト アクア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/525733_i.png"
+        },
+        {
+          "text": "107,800",
+          "imgSrc": null
+        },
+        {
+          "text": "8,181",
+          "imgSrc": null
+        },
+        {
+          "text": "6,205",
+          "imgSrc": null
+        },
+        {
+          "text": "38,999",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "「閃光」の降臨 リュドシエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/288894_i.png"
+        },
+        {
+          "text": "110,420",
+          "imgSrc": null
+        },
+        {
+          "text": "8,120",
+          "imgSrc": null
+        },
+        {
+          "text": "5,428",
+          "imgSrc": null
+        },
+        {
+          "text": "38,985",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "S級ハンター 向坂雫",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/504644_i.png"
+        },
+        {
+          "text": "108,985",
+          "imgSrc": null
+        },
+        {
+          "text": "8,253",
+          "imgSrc": null
+        },
+        {
+          "text": "5,821",
+          "imgSrc": null
+        },
+        {
+          "text": "38,941",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "支配者 魔神王",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/410226_i.png"
+        },
+        {
+          "text": "105,420",
+          "imgSrc": null
+        },
+        {
+          "text": "8,917",
+          "imgSrc": null
+        },
+        {
+          "text": "5,999",
+          "imgSrc": null
+        },
+        {
+          "text": "38,939",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "神の加護 マーリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/257611_i.png"
+        },
+        {
+          "text": "110,595",
+          "imgSrc": null
+        },
+        {
+          "text": "8,004",
+          "imgSrc": null
+        },
+        {
+          "text": "5,622",
+          "imgSrc": null
+        },
+        {
+          "text": "38,931",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "炎炎ノヒーロー 森羅 日下部",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/541675_i.png"
+        },
+        {
+          "text": "107,700",
+          "imgSrc": null
+        },
+        {
+          "text": "8,494",
+          "imgSrc": null
+        },
+        {
+          "text": "5,787",
+          "imgSrc": null
+        },
+        {
+          "text": "38,916",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "怠惰の罪 キング",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/151156_i.png"
+        },
+        {
+          "text": "112,690",
+          "imgSrc": null
+        },
+        {
+          "text": "7,424",
+          "imgSrc": null
+        },
+        {
+          "text": "5,889",
+          "imgSrc": null
+        },
+        {
+          "text": "38,913",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "フレンドリーな同級生 キング",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/550768_i.png"
+        },
+        {
+          "text": "106,770",
+          "imgSrc": null
+        },
+        {
+          "text": "7,870",
+          "imgSrc": null
+        },
+        {
+          "text": "6,687",
+          "imgSrc": null
+        },
+        {
+          "text": "38,890",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "うたたねの死神 キューザック",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/290432_i.png"
+        },
+        {
+          "text": "108,520",
+          "imgSrc": null
+        },
+        {
+          "text": "8,422",
+          "imgSrc": null
+        },
+        {
+          "text": "5,701",
+          "imgSrc": null
+        },
+        {
+          "text": "38,851",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔神族の精鋭 エスタロッサ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/184878_i.png"
+        },
+        {
+          "text": "110,400",
+          "imgSrc": null
+        },
+        {
+          "text": "7,087",
+          "imgSrc": null
+        },
+        {
+          "text": "6,594",
+          "imgSrc": null
+        },
+        {
+          "text": "38,850",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魂の導き手 ヘル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/419787_i.png"
+        },
+        {
+          "text": "106,400",
+          "imgSrc": null
+        },
+        {
+          "text": "8,668",
+          "imgSrc": null
+        },
+        {
+          "text": "6,023",
+          "imgSrc": null
+        },
+        {
+          "text": "38,798",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "陰の実力者 シャドウ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/494901_i.png"
+        },
+        {
+          "text": "110,620",
+          "imgSrc": null
+        },
+        {
+          "text": "7,978",
+          "imgSrc": null
+        },
+        {
+          "text": "5,575",
+          "imgSrc": null
+        },
+        {
+          "text": "38,794",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "凍りついた時間 象 日下部",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/541674_i.png"
+        },
+        {
+          "text": "105,690",
+          "imgSrc": null
+        },
+        {
+          "text": "8,622",
+          "imgSrc": null
+        },
+        {
+          "text": "5,945",
+          "imgSrc": null
+        },
+        {
+          "text": "38,788",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "雪国の花嫁 ブリュンヒルデ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/346467_i.png"
+        },
+        {
+          "text": "105,970",
+          "imgSrc": null
+        },
+        {
+          "text": "8,459",
+          "imgSrc": null
+        },
+        {
+          "text": "5,839",
+          "imgSrc": null
+        },
+        {
+          "text": "38,718",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "影の軍団 ベル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/504645_i.png"
+        },
+        {
+          "text": "107,020",
+          "imgSrc": null
+        },
+        {
+          "text": "8,682",
+          "imgSrc": null
+        },
+        {
+          "text": "5,364",
+          "imgSrc": null
+        },
+        {
+          "text": "38,634",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "異国の便利屋 バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/538649_i.png"
+        },
+        {
+          "text": "102,550",
+          "imgSrc": null
+        },
+        {
+          "text": "8,959",
+          "imgSrc": null
+        },
+        {
+          "text": "6,061",
+          "imgSrc": null
+        },
+        {
+          "text": "38,605",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "シャドウガーデン アルファ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/494899_i.png"
+        },
+        {
+          "text": "107,690",
+          "imgSrc": null
+        },
+        {
+          "text": "8,162",
+          "imgSrc": null
+        },
+        {
+          "text": "5,830",
+          "imgSrc": null
+        },
+        {
+          "text": "38,572",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "情熱的な夏 ゲルダ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/515092_i.png"
+        },
+        {
+          "text": "108,350",
+          "imgSrc": null
+        },
+        {
+          "text": "7,131",
+          "imgSrc": null
+        },
+        {
+          "text": "6,925",
+          "imgSrc": null
+        },
+        {
+          "text": "38,462",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "紅炎の猫又 環 古達",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/541673_i.png"
+        },
+        {
+          "text": "106,910",
+          "imgSrc": null
+        },
+        {
+          "text": "7,795",
+          "imgSrc": null
+        },
+        {
+          "text": "6,291",
+          "imgSrc": null
+        },
+        {
+          "text": "38,459",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "紅炎の姫 蓮梨花",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/483342_i.png"
+        },
+        {
+          "text": "107,480",
+          "imgSrc": null
+        },
+        {
+          "text": "8,333",
+          "imgSrc": null
+        },
+        {
+          "text": "5,731",
+          "imgSrc": null
+        },
+        {
+          "text": "38,437",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "妖精王の娘 ティオレー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/560184_i.png"
+        },
+        {
+          "text": "105,570",
+          "imgSrc": null
+        },
+        {
+          "text": "8,160",
+          "imgSrc": null
+        },
+        {
+          "text": "5,943",
+          "imgSrc": null
+        },
+        {
+          "text": "38,429",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "自由なスピリット ウレック・マジノ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/483340_i.png"
+        },
+        {
+          "text": "108,270",
+          "imgSrc": null
+        },
+        {
+          "text": "8,076",
+          "imgSrc": null
+        },
+        {
+          "text": "5,880",
+          "imgSrc": null
+        },
+        {
+          "text": "38,426",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "フィロリアルの女王 フィトリア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/447160_i.png"
+        },
+        {
+          "text": "106,555",
+          "imgSrc": null
+        },
+        {
+          "text": "8,053",
+          "imgSrc": null
+        },
+        {
+          "text": "5,900",
+          "imgSrc": null
+        },
+        {
+          "text": "38,416",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "燃え上がる闘志 ペルガルド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/501501_i.png"
+        },
+        {
+          "text": "108,450",
+          "imgSrc": null
+        },
+        {
+          "text": "7,733",
+          "imgSrc": null
+        },
+        {
+          "text": "5,868",
+          "imgSrc": null
+        },
+        {
+          "text": "38,359",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リゼロ ラインハルト",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/361465_i.png"
+        },
+        {
+          "text": "112,350",
+          "imgSrc": null
+        },
+        {
+          "text": "6,728",
+          "imgSrc": null
+        },
+        {
+          "text": "5,702",
+          "imgSrc": null
+        },
+        {
+          "text": "38,345",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リゼロ プリシラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/557265_i.png"
+        },
+        {
+          "text": "104,320",
+          "imgSrc": null
+        },
+        {
+          "text": "8,006",
+          "imgSrc": null
+        },
+        {
+          "text": "6,143",
+          "imgSrc": null
+        },
+        {
+          "text": "38,341",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "炎獄の造物主 デミウルゴス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/461706_i.png"
+        },
+        {
+          "text": "103,600",
+          "imgSrc": null
+        },
+        {
+          "text": "8,819",
+          "imgSrc": null
+        },
+        {
+          "text": "5,640",
+          "imgSrc": null
+        },
+        {
+          "text": "38,313",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "プレアデス ナーベラル・ガンマ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/461705_i.png"
+        },
+        {
+          "text": "105,915",
+          "imgSrc": null
+        },
+        {
+          "text": "8,173",
+          "imgSrc": null
+        },
+        {
+          "text": "6,147",
+          "imgSrc": null
+        },
+        {
+          "text": "38,248",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "青春の炎 テュール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/492852_i.png"
+        },
+        {
+          "text": "104,180",
+          "imgSrc": null
+        },
+        {
+          "text": "9,018",
+          "imgSrc": null
+        },
+        {
+          "text": "5,423",
+          "imgSrc": null
+        },
+        {
+          "text": "38,235",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "教則の導き手 ヘル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/490961_i.png"
+        },
+        {
+          "text": "108,250",
+          "imgSrc": null
+        },
+        {
+          "text": "7,763",
+          "imgSrc": null
+        },
+        {
+          "text": "5,748",
+          "imgSrc": null
+        },
+        {
+          "text": "38,208",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "取り戻した心 ゴウセル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/295057_i.png"
+        },
+        {
+          "text": "110,290",
+          "imgSrc": null
+        },
+        {
+          "text": "6,676",
+          "imgSrc": null
+        },
+        {
+          "text": "5,822",
+          "imgSrc": null
+        },
+        {
+          "text": "38,097",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "八星魔王 リムル＝テンペスト",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/330694_i.png"
+        },
+        {
+          "text": "106,150",
+          "imgSrc": null
+        },
+        {
+          "text": "8,162",
+          "imgSrc": null
+        },
+        {
+          "text": "5,929",
+          "imgSrc": null
+        },
+        {
+          "text": "38,091",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "シャドウガーデン ベータ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/494900_i.png"
+        },
+        {
+          "text": "107,580",
+          "imgSrc": null
+        },
+        {
+          "text": "7,409",
+          "imgSrc": null
+        },
+        {
+          "text": "6,266",
+          "imgSrc": null
+        },
+        {
+          "text": "38,031",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "冒険の始まり アングハルハッド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/489675_i.png"
+        },
+        {
+          "text": "108,830",
+          "imgSrc": null
+        },
+        {
+          "text": "7,633",
+          "imgSrc": null
+        },
+        {
+          "text": "5,867",
+          "imgSrc": null
+        },
+        {
+          "text": "38,022",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "甘い誘惑 アングハルハッド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/544731_i.png"
+        },
+        {
+          "text": "108,830",
+          "imgSrc": null
+        },
+        {
+          "text": "7,633",
+          "imgSrc": null
+        },
+        {
+          "text": "5,867",
+          "imgSrc": null
+        },
+        {
+          "text": "38,022",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "クルセイダー ダクネス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/525735_i.png"
+        },
+        {
+          "text": "121,110",
+          "imgSrc": null
+        },
+        {
+          "text": "3,858",
+          "imgSrc": null
+        },
+        {
+          "text": "8,020",
+          "imgSrc": null
+        },
+        {
+          "text": "38,019",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "未知の魔力 パーシバル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/464679_i.png"
+        },
+        {
+          "text": "106,670",
+          "imgSrc": null
+        },
+        {
+          "text": "7,773",
+          "imgSrc": null
+        },
+        {
+          "text": "6,143",
+          "imgSrc": null
+        },
+        {
+          "text": "38,008",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "調毒 ナシエンス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/477554_i.png"
+        },
+        {
+          "text": "113,700",
+          "imgSrc": null
+        },
+        {
+          "text": "6,531",
+          "imgSrc": null
+        },
+        {
+          "text": "6,004",
+          "imgSrc": null
+        },
+        {
+          "text": "38,002",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "命の炎 エスカノール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/376362_i.png"
+        },
+        {
+          "text": "103,080",
+          "imgSrc": null
+        },
+        {
+          "text": "8,977",
+          "imgSrc": null
+        },
+        {
+          "text": "5,368",
+          "imgSrc": null
+        },
+        {
+          "text": "37,990",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "祝福の妖精 エレイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/245854_i.png"
+        },
+        {
+          "text": "106,280",
+          "imgSrc": null
+        },
+        {
+          "text": "7,215",
+          "imgSrc": null
+        },
+        {
+          "text": "6,607",
+          "imgSrc": null
+        },
+        {
+          "text": "37,982",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "復讐の鬼 ヘルブラム",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/155320_i.png"
+        },
+        {
+          "text": "106,420",
+          "imgSrc": null
+        },
+        {
+          "text": "7,235",
+          "imgSrc": null
+        },
+        {
+          "text": "6,269",
+          "imgSrc": null
+        },
+        {
+          "text": "37,865",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖騎士志望者 トリスタン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/496614_i.png"
+        },
+        {
+          "text": "105,030",
+          "imgSrc": null
+        },
+        {
+          "text": "8,025",
+          "imgSrc": null
+        },
+        {
+          "text": "6,270",
+          "imgSrc": null
+        },
+        {
+          "text": "37,845",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "眷属器の所持者 グラス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/447161_i.png"
+        },
+        {
+          "text": "104,155",
+          "imgSrc": null
+        },
+        {
+          "text": "8,453",
+          "imgSrc": null
+        },
+        {
+          "text": "5,711",
+          "imgSrc": null
+        },
+        {
+          "text": "37,828",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "四大天使 マエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/388667_i.png"
+        },
+        {
+          "text": "101,440",
+          "imgSrc": null
+        },
+        {
+          "text": "8,870",
+          "imgSrc": null
+        },
+        {
+          "text": "5,484",
+          "imgSrc": null
+        },
+        {
+          "text": "37,678",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "七つの大罪 バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/400601_i.png"
+        },
+        {
+          "text": "100,350",
+          "imgSrc": null
+        },
+        {
+          "text": "8,959",
+          "imgSrc": null
+        },
+        {
+          "text": "5,845",
+          "imgSrc": null
+        },
+        {
+          "text": "37,674",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "十戒 ゼルドリス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/199880_i.png"
+        },
+        {
+          "text": "105,670",
+          "imgSrc": null
+        },
+        {
+          "text": "7,295",
+          "imgSrc": null
+        },
+        {
+          "text": "6,183",
+          "imgSrc": null
+        },
+        {
+          "text": "37,671",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "残酷な悪夢 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/512872_i.png"
+        },
+        {
+          "text": "103,820",
+          "imgSrc": null
+        },
+        {
+          "text": "8,650",
+          "imgSrc": null
+        },
+        {
+          "text": "5,700",
+          "imgSrc": null
+        },
+        {
+          "text": "37,617",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "破滅の到来 リリア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/228087_i.png"
+        },
+        {
+          "text": "103,230",
+          "imgSrc": null
+        },
+        {
+          "text": "7,555",
+          "imgSrc": null
+        },
+        {
+          "text": "6,119",
+          "imgSrc": null
+        },
+        {
+          "text": "37,535",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "新たな神話 エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/181826_i.png"
+        },
+        {
+          "text": "105,030",
+          "imgSrc": null
+        },
+        {
+          "text": "7,215",
+          "imgSrc": null
+        },
+        {
+          "text": "6,478",
+          "imgSrc": null
+        },
+        {
+          "text": "37,533",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "隠された階 ザハード（データ）",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/435315_i.png"
+        },
+        {
+          "text": "101,850",
+          "imgSrc": null
+        },
+        {
+          "text": "8,521",
+          "imgSrc": null
+        },
+        {
+          "text": "5,700",
+          "imgSrc": null
+        },
+        {
+          "text": "37,474",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔王の秘書 シオン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/469761_i.png"
+        },
+        {
+          "text": "104,400",
+          "imgSrc": null
+        },
+        {
+          "text": "8,859",
+          "imgSrc": null
+        },
+        {
+          "text": "4,863",
+          "imgSrc": null
+        },
+        {
+          "text": "37,462",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "隠された光 バルドル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/459257_i.png"
+        },
+        {
+          "text": "102,010",
+          "imgSrc": null
+        },
+        {
+          "text": "6,661",
+          "imgSrc": null
+        },
+        {
+          "text": "7,927",
+          "imgSrc": null
+        },
+        {
+          "text": "37,442",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ナザリックの支配者 アインズ・ウール・ゴウン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/423169_i.png"
+        },
+        {
+          "text": "101,455",
+          "imgSrc": null
+        },
+        {
+          "text": "8,015",
+          "imgSrc": null
+        },
+        {
+          "text": "6,326",
+          "imgSrc": null
+        },
+        {
+          "text": "37,441",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "残飯処理騎士団 ホーク",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/205355_i.png"
+        },
+        {
+          "text": "101,580",
+          "imgSrc": null
+        },
+        {
+          "text": "7,635",
+          "imgSrc": null
+        },
+        {
+          "text": "6,293",
+          "imgSrc": null
+        },
+        {
+          "text": "37,217",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "鮮血の戦乙女 シャルティア・ブラッドフォールン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/423171_i.png"
+        },
+        {
+          "text": "100,935",
+          "imgSrc": null
+        },
+        {
+          "text": "8,253",
+          "imgSrc": null
+        },
+        {
+          "text": "6,108",
+          "imgSrc": null
+        },
+        {
+          "text": "37,173",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "純白の悪魔 アルベド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/423170_i.png"
+        },
+        {
+          "text": "102,750",
+          "imgSrc": null
+        },
+        {
+          "text": "7,438",
+          "imgSrc": null
+        },
+        {
+          "text": "6,463",
+          "imgSrc": null
+        },
+        {
+          "text": "37,148",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リゼロ エキドナ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/361466_i.png"
+        },
+        {
+          "text": "104,290",
+          "imgSrc": null
+        },
+        {
+          "text": "7,664",
+          "imgSrc": null
+        },
+        {
+          "text": "5,919",
+          "imgSrc": null
+        },
+        {
+          "text": "37,107",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "大洋の探究者 マーリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/456525_i.png"
+        },
+        {
+          "text": "101,200",
+          "imgSrc": null
+        },
+        {
+          "text": "8,205",
+          "imgSrc": null
+        },
+        {
+          "text": "5,730",
+          "imgSrc": null
+        },
+        {
+          "text": "37,090",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖戦の悪夢 エスタロッサ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/466461_i.png"
+        },
+        {
+          "text": "101,450",
+          "imgSrc": null
+        },
+        {
+          "text": "8,414",
+          "imgSrc": null
+        },
+        {
+          "text": "5,739",
+          "imgSrc": null
+        },
+        {
+          "text": "37,053",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ザハードの姫 真田ユリ・ザハード",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/435314_i.png"
+        },
+        {
+          "text": "101,855",
+          "imgSrc": null
+        },
+        {
+          "text": "7,973",
+          "imgSrc": null
+        },
+        {
+          "text": "6,048",
+          "imgSrc": null
+        },
+        {
+          "text": "37,030",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "鉄壁の騎士 グリアモール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150332_i.png"
+        },
+        {
+          "text": "108,450",
+          "imgSrc": null
+        },
+        {
+          "text": "5,437",
+          "imgSrc": null
+        },
+        {
+          "text": "7,449",
+          "imgSrc": null
+        },
+        {
+          "text": "36,888",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "不屈の意志 テュール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/406295_i.png"
+        },
+        {
+          "text": "100,780",
+          "imgSrc": null
+        },
+        {
+          "text": "8,598",
+          "imgSrc": null
+        },
+        {
+          "text": "5,303",
+          "imgSrc": null
+        },
+        {
+          "text": "36,876",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "冒険の始まり パーシバル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/452282_i.png"
+        },
+        {
+          "text": "106,860",
+          "imgSrc": null
+        },
+        {
+          "text": "7,008",
+          "imgSrc": null
+        },
+        {
+          "text": "5,646",
+          "imgSrc": null
+        },
+        {
+          "text": "36,832",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "暴風 ハウザー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150282_i.png"
+        },
+        {
+          "text": "102,900",
+          "imgSrc": null
+        },
+        {
+          "text": "7,325",
+          "imgSrc": null
+        },
+        {
+          "text": "5,768",
+          "imgSrc": null
+        },
+        {
+          "text": "36,770",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "不屈の愛 ゲルダ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/440597_i.png"
+        },
+        {
+          "text": "107,060",
+          "imgSrc": null
+        },
+        {
+          "text": "6,957",
+          "imgSrc": null
+        },
+        {
+          "text": "5,667",
+          "imgSrc": null
+        },
+        {
+          "text": "36,743",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リオネスの未来 トリスタン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/402764_i.png"
+        },
+        {
+          "text": "105,030",
+          "imgSrc": null
+        },
+        {
+          "text": "7,425",
+          "imgSrc": null
+        },
+        {
+          "text": "5,838",
+          "imgSrc": null
+        },
+        {
+          "text": "36,688",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "雷帝 ギルサンダー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150335_i.png"
+        },
+        {
+          "text": "105,005",
+          "imgSrc": null
+        },
+        {
+          "text": "6,771",
+          "imgSrc": null
+        },
+        {
+          "text": "6,193",
+          "imgSrc": null
+        },
+        {
+          "text": "36,668",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "妖鬼 シュナ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/330695_i.png"
+        },
+        {
+          "text": "108,800",
+          "imgSrc": null
+        },
+        {
+          "text": "6,600",
+          "imgSrc": null
+        },
+        {
+          "text": "5,665",
+          "imgSrc": null
+        },
+        {
+          "text": "36,598",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "殲滅状態 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/249195_i.png"
+        },
+        {
+          "text": "103,120",
+          "imgSrc": null
+        },
+        {
+          "text": "8,130",
+          "imgSrc": null
+        },
+        {
+          "text": "5,748",
+          "imgSrc": null
+        },
+        {
+          "text": "36,596",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リゼロ レム",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/263669_i.png"
+        },
+        {
+          "text": "103,705",
+          "imgSrc": null
+        },
+        {
+          "text": "7,773",
+          "imgSrc": null
+        },
+        {
+          "text": "5,584",
+          "imgSrc": null
+        },
+        {
+          "text": "36,593",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リゼロ ラム",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/263670_i.png"
+        },
+        {
+          "text": "106,065",
+          "imgSrc": null
+        },
+        {
+          "text": "7,227",
+          "imgSrc": null
+        },
+        {
+          "text": "5,726",
+          "imgSrc": null
+        },
+        {
+          "text": "36,514",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リゼロ エミリア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/263668_i.png"
+        },
+        {
+          "text": "99,880",
+          "imgSrc": null
+        },
+        {
+          "text": "7,941",
+          "imgSrc": null
+        },
+        {
+          "text": "6,289",
+          "imgSrc": null
+        },
+        {
+          "text": "36,481",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "スレイヤー候補 ジュ・ビオレ・グレイス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/435313_i.png"
+        },
+        {
+          "text": "103,510",
+          "imgSrc": null
+        },
+        {
+          "text": "7,514",
+          "imgSrc": null
+        },
+        {
+          "text": "6,026",
+          "imgSrc": null
+        },
+        {
+          "text": "36,480",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "恋の伝令 ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/436763_i.png"
+        },
+        {
+          "text": "103,910",
+          "imgSrc": null
+        },
+        {
+          "text": "7,250",
+          "imgSrc": null
+        },
+        {
+          "text": "5,889",
+          "imgSrc": null
+        },
+        {
+          "text": "36,441",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "取り戻した記憶 エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/344770_i.png"
+        },
+        {
+          "text": "100,245",
+          "imgSrc": null
+        },
+        {
+          "text": "7,837",
+          "imgSrc": null
+        },
+        {
+          "text": "5,587",
+          "imgSrc": null
+        },
+        {
+          "text": "36,386",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "確固たる信念 エレン・イェーガー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/414967_i.png"
+        },
+        {
+          "text": "99,335",
+          "imgSrc": null
+        },
+        {
+          "text": "7,825",
+          "imgSrc": null
+        },
+        {
+          "text": "5,749",
+          "imgSrc": null
+        },
+        {
+          "text": "36,327",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魅了の女王 フレイヤ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/385418_i.png"
+        },
+        {
+          "text": "99,310",
+          "imgSrc": null
+        },
+        {
+          "text": "8,245",
+          "imgSrc": null
+        },
+        {
+          "text": "5,474",
+          "imgSrc": null
+        },
+        {
+          "text": "36,319",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "和合の象徴 ハーレクイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/432458_i.png"
+        },
+        {
+          "text": "101,600",
+          "imgSrc": null
+        },
+        {
+          "text": "8,175",
+          "imgSrc": null
+        },
+        {
+          "text": "5,414",
+          "imgSrc": null
+        },
+        {
+          "text": "36,310",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "不屈の羽 リヴァイ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/414968_i.png"
+        },
+        {
+          "text": "99,360",
+          "imgSrc": null
+        },
+        {
+          "text": "8,033",
+          "imgSrc": null
+        },
+        {
+          "text": "5,820",
+          "imgSrc": null
+        },
+        {
+          "text": "36,307",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖戦の戦士 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/313939_i.png"
+        },
+        {
+          "text": "102,640",
+          "imgSrc": null
+        },
+        {
+          "text": "7,964",
+          "imgSrc": null
+        },
+        {
+          "text": "5,110",
+          "imgSrc": null
+        },
+        {
+          "text": "36,298",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リゼロ ベアトリス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/263671_i.png"
+        },
+        {
+          "text": "107,955",
+          "imgSrc": null
+        },
+        {
+          "text": "6,670",
+          "imgSrc": null
+        },
+        {
+          "text": "5,675",
+          "imgSrc": null
+        },
+        {
+          "text": "36,249",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "呪いの絆 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/381423_i.png"
+        },
+        {
+          "text": "96,365",
+          "imgSrc": null
+        },
+        {
+          "text": "8,538",
+          "imgSrc": null
+        },
+        {
+          "text": "5,268",
+          "imgSrc": null
+        },
+        {
+          "text": "36,243",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "歪められた闇 エスタロッサ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/353477_i.png"
+        },
+        {
+          "text": "98,050",
+          "imgSrc": null
+        },
+        {
+          "text": "8,414",
+          "imgSrc": null
+        },
+        {
+          "text": "5,523",
+          "imgSrc": null
+        },
+        {
+          "text": "36,167",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "最後の賢者 マーリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/365810_i.png"
+        },
+        {
+          "text": "97,800",
+          "imgSrc": null
+        },
+        {
+          "text": "8,025",
+          "imgSrc": null
+        },
+        {
+          "text": "5,418",
+          "imgSrc": null
+        },
+        {
+          "text": "36,154",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "破壊の暴君 ミリム・ナーヴァ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/159527_i.png"
+        },
+        {
+          "text": "104,240",
+          "imgSrc": null
+        },
+        {
+          "text": "7,307",
+          "imgSrc": null
+        },
+        {
+          "text": "5,047",
+          "imgSrc": null
+        },
+        {
+          "text": "36,096",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "鬼人族 ベニマル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/159526_i.png"
+        },
+        {
+          "text": "100,840",
+          "imgSrc": null
+        },
+        {
+          "text": "7,755",
+          "imgSrc": null
+        },
+        {
+          "text": "5,452",
+          "imgSrc": null
+        },
+        {
+          "text": "36,054",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔物を統べる者 リムル=テンペスト",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/159524_i.png"
+        },
+        {
+          "text": "104,070",
+          "imgSrc": null
+        },
+        {
+          "text": "6,708",
+          "imgSrc": null
+        },
+        {
+          "text": "5,831",
+          "imgSrc": null
+        },
+        {
+          "text": "35,688",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "夏の幻 フレイヤ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/408317_i.png"
+        },
+        {
+          "text": "97,110",
+          "imgSrc": null
+        },
+        {
+          "text": "8,065",
+          "imgSrc": null
+        },
+        {
+          "text": "5,474",
+          "imgSrc": null
+        },
+        {
+          "text": "35,668",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "氷河の守護者 コキュートス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/423172_i.png"
+        },
+        {
+          "text": "98,800",
+          "imgSrc": null
+        },
+        {
+          "text": "7,626",
+          "imgSrc": null
+        },
+        {
+          "text": "5,731",
+          "imgSrc": null
+        },
+        {
+          "text": "35,620",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "凶星雲 ゼルドリス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/358375_i.png"
+        },
+        {
+          "text": "101,365",
+          "imgSrc": null
+        },
+        {
+          "text": "7,696",
+          "imgSrc": null
+        },
+        {
+          "text": "5,118",
+          "imgSrc": null
+        },
+        {
+          "text": "35,594",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "異世界転生者 ルーデウス・グレイラット",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/396253_i.png"
+        },
+        {
+          "text": "95,265",
+          "imgSrc": null
+        },
+        {
+          "text": "8,450",
+          "imgSrc": null
+        },
+        {
+          "text": "5,313",
+          "imgSrc": null
+        },
+        {
+          "text": "35,558",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ベテラン戦士 バルギス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/503669_i.png"
+        },
+        {
+          "text": "96,660",
+          "imgSrc": null
+        },
+        {
+          "text": "7,795",
+          "imgSrc": null
+        },
+        {
+          "text": "5,340",
+          "imgSrc": null
+        },
+        {
+          "text": "35,532",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "願いの風 サリエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/481565_i.png"
+        },
+        {
+          "text": "100,740",
+          "imgSrc": null
+        },
+        {
+          "text": "7,708",
+          "imgSrc": null
+        },
+        {
+          "text": "5,432",
+          "imgSrc": null
+        },
+        {
+          "text": "35,520",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "満月の影 モノ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/382379_i.png"
+        },
+        {
+          "text": "100,300",
+          "imgSrc": null
+        },
+        {
+          "text": "7,488",
+          "imgSrc": null
+        },
+        {
+          "text": "5,324",
+          "imgSrc": null
+        },
+        {
+          "text": "35,503",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "暴走する冬 ロキシー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/429758_i.png"
+        },
+        {
+          "text": "95,550",
+          "imgSrc": null
+        },
+        {
+          "text": "8,449",
+          "imgSrc": null
+        },
+        {
+          "text": "5,304",
+          "imgSrc": null
+        },
+        {
+          "text": "35,473",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "水王級魔術師 ロキシー・ミグルディア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/396255_i.png"
+        },
+        {
+          "text": "95,370",
+          "imgSrc": null
+        },
+        {
+          "text": "8,599",
+          "imgSrc": null
+        },
+        {
+          "text": "5,156",
+          "imgSrc": null
+        },
+        {
+          "text": "35,466",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "護る王 ハーレクイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/308710_i.png"
+        },
+        {
+          "text": "98,200",
+          "imgSrc": null
+        },
+        {
+          "text": "7,995",
+          "imgSrc": null
+        },
+        {
+          "text": "5,414",
+          "imgSrc": null
+        },
+        {
+          "text": "35,454",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "剣王 ギレーヌ・デドルディア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/396256_i.png"
+        },
+        {
+          "text": "92,910",
+          "imgSrc": null
+        },
+        {
+          "text": "9,047",
+          "imgSrc": null
+        },
+        {
+          "text": "5,095",
+          "imgSrc": null
+        },
+        {
+          "text": "35,426",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "貪欲の呪い シグルド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/471445_i.png"
+        },
+        {
+          "text": "99,815",
+          "imgSrc": null
+        },
+        {
+          "text": "7,956",
+          "imgSrc": null
+        },
+        {
+          "text": "5,263",
+          "imgSrc": null
+        },
+        {
+          "text": "35,386",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "盾の勇者 岩谷尚文",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/369889_i.png"
+        },
+        {
+          "text": "95,320",
+          "imgSrc": null
+        },
+        {
+          "text": "6,352",
+          "imgSrc": null
+        },
+        {
+          "text": "7,606",
+          "imgSrc": null
+        },
+        {
+          "text": "35,371",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "鋼鉄の工学者 バレンティ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/444630_i.png"
+        },
+        {
+          "text": "100,445",
+          "imgSrc": null
+        },
+        {
+          "text": "7,737",
+          "imgSrc": null
+        },
+        {
+          "text": "5,651",
+          "imgSrc": null
+        },
+        {
+          "text": "35,337",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "偉大なる戦士 ドロール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/528527_i.png"
+        },
+        {
+          "text": "100,112",
+          "imgSrc": null
+        },
+        {
+          "text": "6,884",
+          "imgSrc": null
+        },
+        {
+          "text": "6,315",
+          "imgSrc": null
+        },
+        {
+          "text": "35,316",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "氷結の戦士 スカジ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/514230_i.png"
+        },
+        {
+          "text": "96,890",
+          "imgSrc": null
+        },
+        {
+          "text": "7,460",
+          "imgSrc": null
+        },
+        {
+          "text": "5,322",
+          "imgSrc": null
+        },
+        {
+          "text": "35,226",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "夏の幻 リュドシエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/411921_i.png"
+        },
+        {
+          "text": "99,765",
+          "imgSrc": null
+        },
+        {
+          "text": "7,378",
+          "imgSrc": null
+        },
+        {
+          "text": "5,315",
+          "imgSrc": null
+        },
+        {
+          "text": "35,092",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "深海探検 イースティン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/518027_i.png"
+        },
+        {
+          "text": "98,970",
+          "imgSrc": null
+        },
+        {
+          "text": "7,162",
+          "imgSrc": null
+        },
+        {
+          "text": "6,206",
+          "imgSrc": null
+        },
+        {
+          "text": "35,088",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "クイーンの後継者 フィーロ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/369891_i.png"
+        },
+        {
+          "text": "93,810",
+          "imgSrc": null
+        },
+        {
+          "text": "8,115",
+          "imgSrc": null
+        },
+        {
+          "text": "5,050",
+          "imgSrc": null
+        },
+        {
+          "text": "35,074",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "旅行の導き手 シン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/537515_i.png"
+        },
+        {
+          "text": "96,850",
+          "imgSrc": null
+        },
+        {
+          "text": "7,533",
+          "imgSrc": null
+        },
+        {
+          "text": "5,432",
+          "imgSrc": null
+        },
+        {
+          "text": "35,058",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "混在する本能 カミラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/463327_i.png"
+        },
+        {
+          "text": "97,885",
+          "imgSrc": null
+        },
+        {
+          "text": "7,917",
+          "imgSrc": null
+        },
+        {
+          "text": "5,592",
+          "imgSrc": null
+        },
+        {
+          "text": "35,006",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "無敵の権化 エスカノール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/241490_i.png"
+        },
+        {
+          "text": "96,490",
+          "imgSrc": null
+        },
+        {
+          "text": "7,447",
+          "imgSrc": null
+        },
+        {
+          "text": "5,915",
+          "imgSrc": null
+        },
+        {
+          "text": "34,769",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "スイートゼリー キング",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/386635_i.png"
+        },
+        {
+          "text": "97,250",
+          "imgSrc": null
+        },
+        {
+          "text": "7,482",
+          "imgSrc": null
+        },
+        {
+          "text": "5,390",
+          "imgSrc": null
+        },
+        {
+          "text": "34,733",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "大洋の悪童 ホーク",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/424667_i.png"
+        },
+        {
+          "text": "98,765",
+          "imgSrc": null
+        },
+        {
+          "text": "7,178",
+          "imgSrc": null
+        },
+        {
+          "text": "5,532",
+          "imgSrc": null
+        },
+        {
+          "text": "34,710",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "原初の破片 チャンドラー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/363236_i.png"
+        },
+        {
+          "text": "100,045",
+          "imgSrc": null
+        },
+        {
+          "text": "7,591",
+          "imgSrc": null
+        },
+        {
+          "text": "4,928",
+          "imgSrc": null
+        },
+        {
+          "text": "34,679",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "白い雪のプレゼント バレンティ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/378788_i.png"
+        },
+        {
+          "text": "100,445",
+          "imgSrc": null
+        },
+        {
+          "text": "7,317",
+          "imgSrc": null
+        },
+        {
+          "text": "5,315",
+          "imgSrc": null
+        },
+        {
+          "text": "34,668",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "尚文の剣 ラフタリア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/369890_i.png"
+        },
+        {
+          "text": "93,580",
+          "imgSrc": null
+        },
+        {
+          "text": "6,469",
+          "imgSrc": null
+        },
+        {
+          "text": "6,866",
+          "imgSrc": null
+        },
+        {
+          "text": "34,632",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ヴァン神族の王 フレイ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/506911_i.png"
+        },
+        {
+          "text": "98,070",
+          "imgSrc": null
+        },
+        {
+          "text": "7,499",
+          "imgSrc": null
+        },
+        {
+          "text": "5,216",
+          "imgSrc": null
+        },
+        {
+          "text": "34,613",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "古代の魔神 チャンドラー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/453491_i.png"
+        },
+        {
+          "text": "102,345",
+          "imgSrc": null
+        },
+        {
+          "text": "6,811",
+          "imgSrc": null
+        },
+        {
+          "text": "5,244",
+          "imgSrc": null
+        },
+        {
+          "text": "34,592",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "自由な刃 モノ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/541037_i.png"
+        },
+        {
+          "text": "96,340",
+          "imgSrc": null
+        },
+        {
+          "text": "7,570",
+          "imgSrc": null
+        },
+        {
+          "text": "5,074",
+          "imgSrc": null
+        },
+        {
+          "text": "34,485",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔神王の代理 ゼルドリス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/269512_i.png"
+        },
+        {
+          "text": "95,065",
+          "imgSrc": null
+        },
+        {
+          "text": "8,226",
+          "imgSrc": null
+        },
+        {
+          "text": "5,229",
+          "imgSrc": null
+        },
+        {
+          "text": "34,482",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "狩りの時間 スカジ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/449695_i.png"
+        },
+        {
+          "text": "96,890",
+          "imgSrc": null
+        },
+        {
+          "text": "7,040",
+          "imgSrc": null
+        },
+        {
+          "text": "5,322",
+          "imgSrc": null
+        },
+        {
+          "text": "34,478",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "甘い誘惑 ヨルムンガンド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/484726_i.png"
+        },
+        {
+          "text": "98,060",
+          "imgSrc": null
+        },
+        {
+          "text": "7,456",
+          "imgSrc": null
+        },
+        {
+          "text": "5,216",
+          "imgSrc": null
+        },
+        {
+          "text": "34,470",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "神の代行者 リュドシエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/391174_i.png"
+        },
+        {
+          "text": "95,280",
+          "imgSrc": null
+        },
+        {
+          "text": "7,817",
+          "imgSrc": null
+        },
+        {
+          "text": "5,818",
+          "imgSrc": null
+        },
+        {
+          "text": "34,460",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "雪原の魔女 マーリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/421644_i.png"
+        },
+        {
+          "text": "96,880",
+          "imgSrc": null
+        },
+        {
+          "text": "7,288",
+          "imgSrc": null
+        },
+        {
+          "text": "5,406",
+          "imgSrc": null
+        },
+        {
+          "text": "34,409",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "「大海」の降臨 タルミエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/327573_i.png"
+        },
+        {
+          "text": "93,900",
+          "imgSrc": null
+        },
+        {
+          "text": "7,138",
+          "imgSrc": null
+        },
+        {
+          "text": "6,319",
+          "imgSrc": null
+        },
+        {
+          "text": "34,375",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ウェポンマスター モノ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/343465_i.png"
+        },
+        {
+          "text": "96,900",
+          "imgSrc": null
+        },
+        {
+          "text": "7,428",
+          "imgSrc": null
+        },
+        {
+          "text": "5,204",
+          "imgSrc": null
+        },
+        {
+          "text": "34,373",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖夜の巫女 ザネリ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/479062_i.png"
+        },
+        {
+          "text": "104,770",
+          "imgSrc": null
+        },
+        {
+          "text": "6,624",
+          "imgSrc": null
+        },
+        {
+          "text": "4,808",
+          "imgSrc": null
+        },
+        {
+          "text": "34,363",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "赤い狂犬 エリス・ボレアス・グレイラット",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/396254_i.png"
+        },
+        {
+          "text": "93,260",
+          "imgSrc": null
+        },
+        {
+          "text": "8,031",
+          "imgSrc": null
+        },
+        {
+          "text": "5,374",
+          "imgSrc": null
+        },
+        {
+          "text": "34,344",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "煌めく願い ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/536331_i.png"
+        },
+        {
+          "text": "97,870",
+          "imgSrc": null
+        },
+        {
+          "text": "7,239",
+          "imgSrc": null
+        },
+        {
+          "text": "5,356",
+          "imgSrc": null
+        },
+        {
+          "text": "34,272",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "最強の兵士 リヴァイ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/212392_i.png"
+        },
+        {
+          "text": "95,065",
+          "imgSrc": null
+        },
+        {
+          "text": "7,395",
+          "imgSrc": null
+        },
+        {
+          "text": "5,228",
+          "imgSrc": null
+        },
+        {
+          "text": "34,267",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "おしゃぶりの鬼 チャンドラー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/269513_i.png"
+        },
+        {
+          "text": "101,645",
+          "imgSrc": null
+        },
+        {
+          "text": "6,471",
+          "imgSrc": null
+        },
+        {
+          "text": "5,328",
+          "imgSrc": null
+        },
+        {
+          "text": "34,235",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "快活な同級生 ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/554148_i.png"
+        },
+        {
+          "text": "101,350",
+          "imgSrc": null
+        },
+        {
+          "text": "7,152",
+          "imgSrc": null
+        },
+        {
+          "text": "4,809",
+          "imgSrc": null
+        },
+        {
+          "text": "34,168",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "楽しいパーティー ホーク",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/282365_i.png"
+        },
+        {
+          "text": "99,765",
+          "imgSrc": null
+        },
+        {
+          "text": "6,678",
+          "imgSrc": null
+        },
+        {
+          "text": "5,352",
+          "imgSrc": null
+        },
+        {
+          "text": "34,163",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "果たされた約束 エレイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/417236_i.png"
+        },
+        {
+          "text": "100,650",
+          "imgSrc": null
+        },
+        {
+          "text": "6,929",
+          "imgSrc": null
+        },
+        {
+          "text": "5,094",
+          "imgSrc": null
+        },
+        {
+          "text": "34,158",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔導兵器MK-II バレンティ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/253018_i.png"
+        },
+        {
+          "text": "96,245",
+          "imgSrc": null
+        },
+        {
+          "text": "7,377",
+          "imgSrc": null
+        },
+        {
+          "text": "5,699",
+          "imgSrc": null
+        },
+        {
+          "text": "34,139",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "四大天使 リュドシエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/218789_i.png"
+        },
+        {
+          "text": "90,780",
+          "imgSrc": null
+        },
+        {
+          "text": "8,137",
+          "imgSrc": null
+        },
+        {
+          "text": "6,034",
+          "imgSrc": null
+        },
+        {
+          "text": "34,110",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "「竜巻」の降臨 サリエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/315161_i.png"
+        },
+        {
+          "text": "97,340",
+          "imgSrc": null
+        },
+        {
+          "text": "7,288",
+          "imgSrc": null
+        },
+        {
+          "text": "5,000",
+          "imgSrc": null
+        },
+        {
+          "text": "34,103",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "暗躍の救世主 ドーナル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/360186_i.png"
+        },
+        {
+          "text": "96,115",
+          "imgSrc": null
+        },
+        {
+          "text": "7,508",
+          "imgSrc": null
+        },
+        {
+          "text": "5,452",
+          "imgSrc": null
+        },
+        {
+          "text": "34,103",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "成長の証 キング",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/224292_i.png"
+        },
+        {
+          "text": "96,450",
+          "imgSrc": null
+        },
+        {
+          "text": "7,222",
+          "imgSrc": null
+        },
+        {
+          "text": "5,114",
+          "imgSrc": null
+        },
+        {
+          "text": "34,052",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "原初の破片 キューザック",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/372720_i.png"
+        },
+        {
+          "text": "99,808",
+          "imgSrc": null
+        },
+        {
+          "text": "6,790",
+          "imgSrc": null
+        },
+        {
+          "text": "4,632",
+          "imgSrc": null
+        },
+        {
+          "text": "34,021",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "真夏の太陽 ロキシー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/286682_i.png"
+        },
+        {
+          "text": "96,730",
+          "imgSrc": null
+        },
+        {
+          "text": "7,588",
+          "imgSrc": null
+        },
+        {
+          "text": "5,189",
+          "imgSrc": null
+        },
+        {
+          "text": "34,016",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "不死の生還者 バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/279465_i.png"
+        },
+        {
+          "text": "92,600",
+          "imgSrc": null
+        },
+        {
+          "text": "7,299",
+          "imgSrc": null
+        },
+        {
+          "text": "5,904",
+          "imgSrc": null
+        },
+        {
+          "text": "34,015",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ラグナロク メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/284882_i.png"
+        },
+        {
+          "text": "98,345",
+          "imgSrc": null
+        },
+        {
+          "text": "7,038",
+          "imgSrc": null
+        },
+        {
+          "text": "5,106",
+          "imgSrc": null
+        },
+        {
+          "text": "34,009",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔神族の精鋭 ゼルドリス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/207373_i.png"
+        },
+        {
+          "text": "97,888",
+          "imgSrc": null
+        },
+        {
+          "text": "7,058",
+          "imgSrc": null
+        },
+        {
+          "text": "5,239",
+          "imgSrc": null
+        },
+        {
+          "text": "33,999",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "春のファンタジー エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/395103_i.png"
+        },
+        {
+          "text": "95,758",
+          "imgSrc": null
+        },
+        {
+          "text": "7,236",
+          "imgSrc": null
+        },
+        {
+          "text": "5,900",
+          "imgSrc": null
+        },
+        {
+          "text": "33,996",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ギルドの期待の星 シン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/433907_i.png"
+        },
+        {
+          "text": "100,125",
+          "imgSrc": null
+        },
+        {
+          "text": "7,110",
+          "imgSrc": null
+        },
+        {
+          "text": "4,955",
+          "imgSrc": null
+        },
+        {
+          "text": "33,975",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "四大天使 タルミエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/234959_i.png"
+        },
+        {
+          "text": "93,440",
+          "imgSrc": null
+        },
+        {
+          "text": "5,975",
+          "imgSrc": null
+        },
+        {
+          "text": "7,606",
+          "imgSrc": null
+        },
+        {
+          "text": "33,962",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "酷寒のハンター スカジ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/316623_i.png"
+        },
+        {
+          "text": "96,890",
+          "imgSrc": null
+        },
+        {
+          "text": "6,860",
+          "imgSrc": null
+        },
+        {
+          "text": "4,890",
+          "imgSrc": null
+        },
+        {
+          "text": "33,924",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "春の香り エレイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/322950_i.png"
+        },
+        {
+          "text": "100,650",
+          "imgSrc": null
+        },
+        {
+          "text": "6,509",
+          "imgSrc": null
+        },
+        {
+          "text": "5,094",
+          "imgSrc": null
+        },
+        {
+          "text": "33,904",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "純白の正義 エルラッテ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/425509_i.png"
+        },
+        {
+          "text": "99,160",
+          "imgSrc": null
+        },
+        {
+          "text": "6,921",
+          "imgSrc": null
+        },
+        {
+          "text": "5,294",
+          "imgSrc": null
+        },
+        {
+          "text": "33,867",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "グラムの主 シグルド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/284880_i.png"
+        },
+        {
+          "text": "95,615",
+          "imgSrc": null
+        },
+        {
+          "text": "7,436",
+          "imgSrc": null
+        },
+        {
+          "text": "5,203",
+          "imgSrc": null
+        },
+        {
+          "text": "33,842",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "甘い誘惑 デリエリ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/255120_i.png"
+        },
+        {
+          "text": "97,165",
+          "imgSrc": null
+        },
+        {
+          "text": "7,221",
+          "imgSrc": null
+        },
+        {
+          "text": "5,491",
+          "imgSrc": null
+        },
+        {
+          "text": "33,819",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "四大天使 サリエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/234960_i.png"
+        },
+        {
+          "text": "95,455",
+          "imgSrc": null
+        },
+        {
+          "text": "7,220",
+          "imgSrc": null
+        },
+        {
+          "text": "5,254",
+          "imgSrc": null
+        },
+        {
+          "text": "33,802",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "狩猟具の勇者 風山絆",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/369892_i.png"
+        },
+        {
+          "text": "92,705",
+          "imgSrc": null
+        },
+        {
+          "text": "7,336",
+          "imgSrc": null
+        },
+        {
+          "text": "5,213",
+          "imgSrc": null
+        },
+        {
+          "text": "33,788",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "快速剣 ななし",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/250813_i.png"
+        },
+        {
+          "text": "95,670",
+          "imgSrc": null
+        },
+        {
+          "text": "7,557",
+          "imgSrc": null
+        },
+        {
+          "text": "4,881",
+          "imgSrc": null
+        },
+        {
+          "text": "33,777",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "海浜の守護者 ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/351788_i.png"
+        },
+        {
+          "text": "95,670",
+          "imgSrc": null
+        },
+        {
+          "text": "7,359",
+          "imgSrc": null
+        },
+        {
+          "text": "5,140",
+          "imgSrc": null
+        },
+        {
+          "text": "33,759",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "蒼海の調律者 イースティン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/253017_i.png"
+        },
+        {
+          "text": "97,970",
+          "imgSrc": null
+        },
+        {
+          "text": "6,602",
+          "imgSrc": null
+        },
+        {
+          "text": "5,924",
+          "imgSrc": null
+        },
+        {
+          "text": "33,758",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "狂気の破壊者 ロキシー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/196725_i.png"
+        },
+        {
+          "text": "93,930",
+          "imgSrc": null
+        },
+        {
+          "text": "7,908",
+          "imgSrc": null
+        },
+        {
+          "text": "4,913",
+          "imgSrc": null
+        },
+        {
+          "text": "33,739",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "傲慢の罪 エスカノール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/181822_i.png"
+        },
+        {
+          "text": "97,550",
+          "imgSrc": null
+        },
+        {
+          "text": "6,820",
+          "imgSrc": null
+        },
+        {
+          "text": "5,566",
+          "imgSrc": null
+        },
+        {
+          "text": "33,737",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "闇の執行者 カミラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/221716_i.png"
+        },
+        {
+          "text": "94,885",
+          "imgSrc": null
+        },
+        {
+          "text": "7,397",
+          "imgSrc": null
+        },
+        {
+          "text": "5,316",
+          "imgSrc": null
+        },
+        {
+          "text": "33,701",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "イスタールの守護者 ジェンナ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/460914_i.png"
+        },
+        {
+          "text": "99,610",
+          "imgSrc": null
+        },
+        {
+          "text": "7,091",
+          "imgSrc": null
+        },
+        {
+          "text": "4,920",
+          "imgSrc": null
+        },
+        {
+          "text": "33,699",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "変わり者のマイスター バレンティ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/548608_i.png"
+        },
+        {
+          "text": "99,550",
+          "imgSrc": null
+        },
+        {
+          "text": "6,285",
+          "imgSrc": null
+        },
+        {
+          "text": "5,929",
+          "imgSrc": null
+        },
+        {
+          "text": "33,685",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "光輝の主 フレイ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/348325_i.png"
+        },
+        {
+          "text": "93,570",
+          "imgSrc": null
+        },
+        {
+          "text": "7,679",
+          "imgSrc": null
+        },
+        {
+          "text": "4,976",
+          "imgSrc": null
+        },
+        {
+          "text": "33,684",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "蛇を鎮める者 ヨルムンガンド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/326279_i.png"
+        },
+        {
+          "text": "93,560",
+          "imgSrc": null
+        },
+        {
+          "text": "7,816",
+          "imgSrc": null
+        },
+        {
+          "text": "4,880",
+          "imgSrc": null
+        },
+        {
+          "text": "33,644",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "巨人化能力 エレン・イェーガー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/212390_i.png"
+        },
+        {
+          "text": "94,010",
+          "imgSrc": null
+        },
+        {
+          "text": "6,988",
+          "imgSrc": null
+        },
+        {
+          "text": "5,823",
+          "imgSrc": null
+        },
+        {
+          "text": "33,633",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "戦場の守護者 ブリュンヒルデ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/292421_i.png"
+        },
+        {
+          "text": "89,980",
+          "imgSrc": null
+        },
+        {
+          "text": "8,015",
+          "imgSrc": null
+        },
+        {
+          "text": "5,208",
+          "imgSrc": null
+        },
+        {
+          "text": "33,602",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖戦の戦士 エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/205354_i.png"
+        },
+        {
+          "text": "92,958",
+          "imgSrc": null
+        },
+        {
+          "text": "7,216",
+          "imgSrc": null
+        },
+        {
+          "text": "6,104",
+          "imgSrc": null
+        },
+        {
+          "text": "33,559",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "十戒 ドロール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/208042_i.png"
+        },
+        {
+          "text": "95,912",
+          "imgSrc": null
+        },
+        {
+          "text": "6,764",
+          "imgSrc": null
+        },
+        {
+          "text": "5,919",
+          "imgSrc": null
+        },
+        {
+          "text": "33,547",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖剣の意志 アーサー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/402765_i.png"
+        },
+        {
+          "text": "96,630",
+          "imgSrc": null
+        },
+        {
+          "text": "6,909",
+          "imgSrc": null
+        },
+        {
+          "text": "5,356",
+          "imgSrc": null
+        },
+        {
+          "text": "33,493",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "最強の兵士 ミカサ・アッカーマン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/212391_i.png"
+        },
+        {
+          "text": "90,830",
+          "imgSrc": null
+        },
+        {
+          "text": "7,397",
+          "imgSrc": null
+        },
+        {
+          "text": "5,772",
+          "imgSrc": null
+        },
+        {
+          "text": "33,488",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "正義の戦士 ドーナル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/284881_i.png"
+        },
+        {
+          "text": "94,115",
+          "imgSrc": null
+        },
+        {
+          "text": "7,308",
+          "imgSrc": null
+        },
+        {
+          "text": "5,452",
+          "imgSrc": null
+        },
+        {
+          "text": "33,429",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ラグナロク ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/292420_i.png"
+        },
+        {
+          "text": "95,670",
+          "imgSrc": null
+        },
+        {
+          "text": "6,999",
+          "imgSrc": null
+        },
+        {
+          "text": "5,140",
+          "imgSrc": null
+        },
+        {
+          "text": "33,426",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔神族の精鋭 ドロール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/217549_i.png"
+        },
+        {
+          "text": "95,112",
+          "imgSrc": null
+        },
+        {
+          "text": "6,604",
+          "imgSrc": null
+        },
+        {
+          "text": "6,003",
+          "imgSrc": null
+        },
+        {
+          "text": "33,425",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "幸せのプレゼント リズ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/379585_i.png"
+        },
+        {
+          "text": "96,400",
+          "imgSrc": null
+        },
+        {
+          "text": "7,238",
+          "imgSrc": null
+        },
+        {
+          "text": "4,789",
+          "imgSrc": null
+        },
+        {
+          "text": "33,423",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ラグナロク マーリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/305058_i.png"
+        },
+        {
+          "text": "93,480",
+          "imgSrc": null
+        },
+        {
+          "text": "7,108",
+          "imgSrc": null
+        },
+        {
+          "text": "5,310",
+          "imgSrc": null
+        },
+        {
+          "text": "33,403",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "躍動する誇り マトローナ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/413974_i.png"
+        },
+        {
+          "text": "100,955",
+          "imgSrc": null
+        },
+        {
+          "text": "5,895",
+          "imgSrc": null
+        },
+        {
+          "text": "5,496",
+          "imgSrc": null
+        },
+        {
+          "text": "33,374",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ヴァルハラの誇り メゲルダ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/392833_i.png"
+        },
+        {
+          "text": "94,335",
+          "imgSrc": null
+        },
+        {
+          "text": "7,126",
+          "imgSrc": null
+        },
+        {
+          "text": "5,275",
+          "imgSrc": null
+        },
+        {
+          "text": "33,366",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖夜の幻 リリア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/308709_i.png"
+        },
+        {
+          "text": "95,180",
+          "imgSrc": null
+        },
+        {
+          "text": "7,089",
+          "imgSrc": null
+        },
+        {
+          "text": "5,097",
+          "imgSrc": null
+        },
+        {
+          "text": "33,328",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "十戒 エスタロッサ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/184877_i.png"
+        },
+        {
+          "text": "94,010",
+          "imgSrc": null
+        },
+        {
+          "text": "7,369",
+          "imgSrc": null
+        },
+        {
+          "text": "5,516",
+          "imgSrc": null
+        },
+        {
+          "text": "33,309",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "大洋の女帝 イースティン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/293474_i.png"
+        },
+        {
+          "text": "93,270",
+          "imgSrc": null
+        },
+        {
+          "text": "6,982",
+          "imgSrc": null
+        },
+        {
+          "text": "5,774",
+          "imgSrc": null
+        },
+        {
+          "text": "33,269",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ハロウィン マトローナ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/297382_i.png"
+        },
+        {
+          "text": "99,755",
+          "imgSrc": null
+        },
+        {
+          "text": "6,075",
+          "imgSrc": null
+        },
+        {
+          "text": "5,256",
+          "imgSrc": null
+        },
+        {
+          "text": "33,256",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ラグナロク バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/325242_i.png"
+        },
+        {
+          "text": "97,708",
+          "imgSrc": null
+        },
+        {
+          "text": "6,685",
+          "imgSrc": null
+        },
+        {
+          "text": "4,535",
+          "imgSrc": null
+        },
+        {
+          "text": "33,253",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "残飯処理騎士団 ホーク",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/260929_i.png"
+        },
+        {
+          "text": "91,765",
+          "imgSrc": null
+        },
+        {
+          "text": "7,078",
+          "imgSrc": null
+        },
+        {
+          "text": "5,532",
+          "imgSrc": null
+        },
+        {
+          "text": "33,181",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "災厄 キング",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/175727_i.png"
+        },
+        {
+          "text": "98,990",
+          "imgSrc": null
+        },
+        {
+          "text": "6,802",
+          "imgSrc": null
+        },
+        {
+          "text": "5,106",
+          "imgSrc": null
+        },
+        {
+          "text": "33,166",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "キラキラバカンス イースティン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/215944_i.png"
+        },
+        {
+          "text": "94,770",
+          "imgSrc": null
+        },
+        {
+          "text": "6,922",
+          "imgSrc": null
+        },
+        {
+          "text": "5,744",
+          "imgSrc": null
+        },
+        {
+          "text": "33,163",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "野獣の心臓 カミラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/397557_i.png"
+        },
+        {
+          "text": "93,385",
+          "imgSrc": null
+        },
+        {
+          "text": "7,317",
+          "imgSrc": null
+        },
+        {
+          "text": "5,376",
+          "imgSrc": null
+        },
+        {
+          "text": "33,161",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "スプーキーパーティー イースティン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/367129_i.png"
+        },
+        {
+          "text": "93,270",
+          "imgSrc": null
+        },
+        {
+          "text": "6,982",
+          "imgSrc": null
+        },
+        {
+          "text": "5,774",
+          "imgSrc": null
+        },
+        {
+          "text": "33,142",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ぬいぐるみの守護者 キング",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150345_i.png"
+        },
+        {
+          "text": "97,790",
+          "imgSrc": null
+        },
+        {
+          "text": "7,042",
+          "imgSrc": null
+        },
+        {
+          "text": "5,106",
+          "imgSrc": null
+        },
+        {
+          "text": "33,140",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "MAVE: ジェナ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/398882_i.png"
+        },
+        {
+          "text": "95,448",
+          "imgSrc": null
+        },
+        {
+          "text": "6,481",
+          "imgSrc": null
+        },
+        {
+          "text": "5,658",
+          "imgSrc": null
+        },
+        {
+          "text": "33,134",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "選ばれし王 アーサー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/276862_i.png"
+        },
+        {
+          "text": "92,430",
+          "imgSrc": null
+        },
+        {
+          "text": "7,309",
+          "imgSrc": null
+        },
+        {
+          "text": "5,356",
+          "imgSrc": null
+        },
+        {
+          "text": "33,101",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "七つの大罪 キング",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150344_i.png"
+        },
+        {
+          "text": "97,790",
+          "imgSrc": null
+        },
+        {
+          "text": "6,642",
+          "imgSrc": null
+        },
+        {
+          "text": "5,382",
+          "imgSrc": null
+        },
+        {
+          "text": "33,090",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "KOF ‘98 テリー・ボガード",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/302488_i.png"
+        },
+        {
+          "text": "94,595",
+          "imgSrc": null
+        },
+        {
+          "text": "6,406",
+          "imgSrc": null
+        },
+        {
+          "text": "5,873",
+          "imgSrc": null
+        },
+        {
+          "text": "33,074",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "天空宮の守護者 エルラッテ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/316624_i.png"
+        },
+        {
+          "text": "96,760",
+          "imgSrc": null
+        },
+        {
+          "text": "6,921",
+          "imgSrc": null
+        },
+        {
+          "text": "5,078",
+          "imgSrc": null
+        },
+        {
+          "text": "33,061",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "夏のムード エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/287505_i.png"
+        },
+        {
+          "text": "99,480",
+          "imgSrc": null
+        },
+        {
+          "text": "6,502",
+          "imgSrc": null
+        },
+        {
+          "text": "4,522",
+          "imgSrc": null
+        },
+        {
+          "text": "33,050",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "海辺のレディー マーリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/287506_i.png"
+        },
+        {
+          "text": "90,680",
+          "imgSrc": null
+        },
+        {
+          "text": "7,188",
+          "imgSrc": null
+        },
+        {
+          "text": "5,310",
+          "imgSrc": null
+        },
+        {
+          "text": "33,035",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔神族の精鋭 フラウドリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/195134_i.png"
+        },
+        {
+          "text": "91,920",
+          "imgSrc": null
+        },
+        {
+          "text": "7,272",
+          "imgSrc": null
+        },
+        {
+          "text": "6,215",
+          "imgSrc": null
+        },
+        {
+          "text": "33,009",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "KOF ‘98 八神庵",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/302489_i.png"
+        },
+        {
+          "text": "92,425",
+          "imgSrc": null
+        },
+        {
+          "text": "7,228",
+          "imgSrc": null
+        },
+        {
+          "text": "5,078",
+          "imgSrc": null
+        },
+        {
+          "text": "32,997",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "大地の牙 マトローナ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/203665_i.png"
+        },
+        {
+          "text": "97,955",
+          "imgSrc": null
+        },
+        {
+          "text": "6,235",
+          "imgSrc": null
+        },
+        {
+          "text": "5,316",
+          "imgSrc": null
+        },
+        {
+          "text": "32,954",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔神族の精鋭 グロキシニア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/195135_i.png"
+        },
+        {
+          "text": "95,670",
+          "imgSrc": null
+        },
+        {
+          "text": "7,040",
+          "imgSrc": null
+        },
+        {
+          "text": "5,030",
+          "imgSrc": null
+        },
+        {
+          "text": "32,937",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "闇の中の刃 モノ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/293475_i.png"
+        },
+        {
+          "text": "92,640",
+          "imgSrc": null
+        },
+        {
+          "text": "7,010",
+          "imgSrc": null
+        },
+        {
+          "text": "4,832",
+          "imgSrc": null
+        },
+        {
+          "text": "32,859",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "甘い誘惑 ザネリ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/186598_i.png"
+        },
+        {
+          "text": "100,570",
+          "imgSrc": null
+        },
+        {
+          "text": "6,204",
+          "imgSrc": null
+        },
+        {
+          "text": "4,868",
+          "imgSrc": null
+        },
+        {
+          "text": "32,837",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "希望の光 アーサー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/241491_i.png"
+        },
+        {
+          "text": "95,960",
+          "imgSrc": null
+        },
+        {
+          "text": "6,681",
+          "imgSrc": null
+        },
+        {
+          "text": "5,069",
+          "imgSrc": null
+        },
+        {
+          "text": "32,822",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔神族の精鋭 メラスキュラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/188415_i.png"
+        },
+        {
+          "text": "93,600",
+          "imgSrc": null
+        },
+        {
+          "text": "6,662",
+          "imgSrc": null
+        },
+        {
+          "text": "5,446",
+          "imgSrc": null
+        },
+        {
+          "text": "32,788",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ヴァルハラの導き手 メゲルダ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/305057_i.png"
+        },
+        {
+          "text": "88,835",
+          "imgSrc": null
+        },
+        {
+          "text": "7,726",
+          "imgSrc": null
+        },
+        {
+          "text": "4,939",
+          "imgSrc": null
+        },
+        {
+          "text": "32,775",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ハロウィン ロキシー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/231854_i.png"
+        },
+        {
+          "text": "89,930",
+          "imgSrc": null
+        },
+        {
+          "text": "7,668",
+          "imgSrc": null
+        },
+        {
+          "text": "5,369",
+          "imgSrc": null
+        },
+        {
+          "text": "32,772",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "KOF ‘98 草薙京",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/229856_i.png"
+        },
+        {
+          "text": "92,220",
+          "imgSrc": null
+        },
+        {
+          "text": "7,408",
+          "imgSrc": null
+        },
+        {
+          "text": "4,761",
+          "imgSrc": null
+        },
+        {
+          "text": "32,707",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "創造 ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/170519_i.png"
+        },
+        {
+          "text": "98,350",
+          "imgSrc": null
+        },
+        {
+          "text": "6,492",
+          "imgSrc": null
+        },
+        {
+          "text": "4,709",
+          "imgSrc": null
+        },
+        {
+          "text": "32,665",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔神族の精鋭 ガラン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/188414_i.png"
+        },
+        {
+          "text": "95,260",
+          "imgSrc": null
+        },
+        {
+          "text": "6,782",
+          "imgSrc": null
+        },
+        {
+          "text": "5,326",
+          "imgSrc": null
+        },
+        {
+          "text": "32,622",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔神族の精鋭 デリエリ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/188413_i.png"
+        },
+        {
+          "text": "94,365",
+          "imgSrc": null
+        },
+        {
+          "text": "7,061",
+          "imgSrc": null
+        },
+        {
+          "text": "4,951",
+          "imgSrc": null
+        },
+        {
+          "text": "32,589",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖戦の騎士 グリアモール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/376363_i.png"
+        },
+        {
+          "text": "101,390",
+          "imgSrc": null
+        },
+        {
+          "text": "5,498",
+          "imgSrc": null
+        },
+        {
+          "text": "5,385",
+          "imgSrc": null
+        },
+        {
+          "text": "32,571",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ストレンジャー・シングス イレブン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/273608_i.png"
+        },
+        {
+          "text": "91,970",
+          "imgSrc": null
+        },
+        {
+          "text": "7,069",
+          "imgSrc": null
+        },
+        {
+          "text": "4,926",
+          "imgSrc": null
+        },
+        {
+          "text": "32,559",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "災いをもたらす者 リリア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/159580_i.png"
+        },
+        {
+          "text": "89,600",
+          "imgSrc": null
+        },
+        {
+          "text": "6,832",
+          "imgSrc": null
+        },
+        {
+          "text": "6,228",
+          "imgSrc": null
+        },
+        {
+          "text": "32,537",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ビター＆スイート メラスキュラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/318403_i.png"
+        },
+        {
+          "text": "88,967",
+          "imgSrc": null
+        },
+        {
+          "text": "7,300",
+          "imgSrc": null
+        },
+        {
+          "text": "5,362",
+          "imgSrc": null
+        },
+        {
+          "text": "32,530",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "黒幕の指揮者 リリア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/173665_i.png"
+        },
+        {
+          "text": "89,600",
+          "imgSrc": null
+        },
+        {
+          "text": "6,672",
+          "imgSrc": null
+        },
+        {
+          "text": "6,408",
+          "imgSrc": null
+        },
+        {
+          "text": "32,521",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "新たな神話 ジェリコ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/181827_i.png"
+        },
+        {
+          "text": "90,455",
+          "imgSrc": null
+        },
+        {
+          "text": "7,553",
+          "imgSrc": null
+        },
+        {
+          "text": "4,742",
+          "imgSrc": null
+        },
+        {
+          "text": "32,481",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "誇り高き兄 ワイルド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/452283_i.png"
+        },
+        {
+          "text": "92,445",
+          "imgSrc": null
+        },
+        {
+          "text": "7,097",
+          "imgSrc": null
+        },
+        {
+          "text": "4,885",
+          "imgSrc": null
+        },
+        {
+          "text": "32,478",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "十戒 デリエリ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/188412_i.png"
+        },
+        {
+          "text": "93,165",
+          "imgSrc": null
+        },
+        {
+          "text": "6,981",
+          "imgSrc": null
+        },
+        {
+          "text": "5,395",
+          "imgSrc": null
+        },
+        {
+          "text": "32,473",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "十戒 フラウドリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/193206_i.png"
+        },
+        {
+          "text": "91,920",
+          "imgSrc": null
+        },
+        {
+          "text": "7,112",
+          "imgSrc": null
+        },
+        {
+          "text": "5,771",
+          "imgSrc": null
+        },
+        {
+          "text": "32,472",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リオネスの英雄 ゴウセル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150334_i.png"
+        },
+        {
+          "text": "91,300",
+          "imgSrc": null
+        },
+        {
+          "text": "6,922",
+          "imgSrc": null
+        },
+        {
+          "text": "5,230",
+          "imgSrc": null
+        },
+        {
+          "text": "32,432",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リオネス エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/154546_i.png"
+        },
+        {
+          "text": "96,380",
+          "imgSrc": null
+        },
+        {
+          "text": "6,421",
+          "imgSrc": null
+        },
+        {
+          "text": "4,870",
+          "imgSrc": null
+        },
+        {
+          "text": "32,430",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ハーレクイン キング",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/182943_i.png"
+        },
+        {
+          "text": "96,110",
+          "imgSrc": null
+        },
+        {
+          "text": "7,190",
+          "imgSrc": null
+        },
+        {
+          "text": "4,393",
+          "imgSrc": null
+        },
+        {
+          "text": "32,425",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "色欲の罪 ゴウセル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/151266_i.png"
+        },
+        {
+          "text": "94,100",
+          "imgSrc": null
+        },
+        {
+          "text": "6,602",
+          "imgSrc": null
+        },
+        {
+          "text": "5,146",
+          "imgSrc": null
+        },
+        {
+          "text": "32,405",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "破滅の到来 モノ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/228088_i.png"
+        },
+        {
+          "text": "91,840",
+          "imgSrc": null
+        },
+        {
+          "text": "7,550",
+          "imgSrc": null
+        },
+        {
+          "text": "4,352",
+          "imgSrc": null
+        },
+        {
+          "text": "32,392",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ハロウィン ゴウセル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/232820_i.png"
+        },
+        {
+          "text": "92,100",
+          "imgSrc": null
+        },
+        {
+          "text": "6,762",
+          "imgSrc": null
+        },
+        {
+          "text": "5,230",
+          "imgSrc": null
+        },
+        {
+          "text": "32,374",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "十戒 メラスキュラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/175726_i.png"
+        },
+        {
+          "text": "88,400",
+          "imgSrc": null
+        },
+        {
+          "text": "6,902",
+          "imgSrc": null
+        },
+        {
+          "text": "5,902",
+          "imgSrc": null
+        },
+        {
+          "text": "32,366",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "KOF ‘98 不知火舞",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/229853_i.png"
+        },
+        {
+          "text": "90,870",
+          "imgSrc": null
+        },
+        {
+          "text": "7,189",
+          "imgSrc": null
+        },
+        {
+          "text": "5,139",
+          "imgSrc": null
+        },
+        {
+          "text": "32,359",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "荒波の支配者 イースティン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/190730_i.png"
+        },
+        {
+          "text": "90,770",
+          "imgSrc": null
+        },
+        {
+          "text": "6,842",
+          "imgSrc": null
+        },
+        {
+          "text": "5,564",
+          "imgSrc": null
+        },
+        {
+          "text": "32,345",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "神速の騎士 ジェリコ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150341_i.png"
+        },
+        {
+          "text": "90,455",
+          "imgSrc": null
+        },
+        {
+          "text": "7,393",
+          "imgSrc": null
+        },
+        {
+          "text": "4,922",
+          "imgSrc": null
+        },
+        {
+          "text": "32,323",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ストレンジャー・シングス ジム・ホッパー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/273611_i.png"
+        },
+        {
+          "text": "91,880",
+          "imgSrc": null
+        },
+        {
+          "text": "6,530",
+          "imgSrc": null
+        },
+        {
+          "text": "5,228",
+          "imgSrc": null
+        },
+        {
+          "text": "32,297",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖戦の騎士 ハウザー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/295058_i.png"
+        },
+        {
+          "text": "95,660",
+          "imgSrc": null
+        },
+        {
+          "text": "6,597",
+          "imgSrc": null
+        },
+        {
+          "text": "4,933",
+          "imgSrc": null
+        },
+        {
+          "text": "32,291",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ハロウィン スレイダー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/298008_i.png"
+        },
+        {
+          "text": "95,750",
+          "imgSrc": null
+        },
+        {
+          "text": "6,850",
+          "imgSrc": null
+        },
+        {
+          "text": "4,224",
+          "imgSrc": null
+        },
+        {
+          "text": "32,285",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "大地を揺るがす者 バレンティ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/176992_i.png"
+        },
+        {
+          "text": "90,150",
+          "imgSrc": null
+        },
+        {
+          "text": "6,365",
+          "imgSrc": null
+        },
+        {
+          "text": "6,505",
+          "imgSrc": null
+        },
+        {
+          "text": "32,257",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "天空の翼 エルラッテ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/180370_i.png"
+        },
+        {
+          "text": "90,960",
+          "imgSrc": null
+        },
+        {
+          "text": "6,901",
+          "imgSrc": null
+        },
+        {
+          "text": "5,438",
+          "imgSrc": null
+        },
+        {
+          "text": "32,212",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "氷結の騎士 ジェリコ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/237832_i.png"
+        },
+        {
+          "text": "90,455",
+          "imgSrc": null
+        },
+        {
+          "text": "7,153",
+          "imgSrc": null
+        },
+        {
+          "text": "4,826",
+          "imgSrc": null
+        },
+        {
+          "text": "32,178",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖夜の幻 リズ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/313224_i.png"
+        },
+        {
+          "text": "90,700",
+          "imgSrc": null
+        },
+        {
+          "text": "7,238",
+          "imgSrc": null
+        },
+        {
+          "text": "4,573",
+          "imgSrc": null
+        },
+        {
+          "text": "32,046",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "新たな冒険 エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/165530_i.png"
+        },
+        {
+          "text": "91,180",
+          "imgSrc": null
+        },
+        {
+          "text": "6,341",
+          "imgSrc": null
+        },
+        {
+          "text": "5,506",
+          "imgSrc": null
+        },
+        {
+          "text": "32,040",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "無限 マーリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/178024_i.png"
+        },
+        {
+          "text": "90,550",
+          "imgSrc": null
+        },
+        {
+          "text": "7,270",
+          "imgSrc": null
+        },
+        {
+          "text": "5,108",
+          "imgSrc": null
+        },
+        {
+          "text": "32,036",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ストレンジャー・シングス ウィル・バイヤーズ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/273609_i.png"
+        },
+        {
+          "text": "92,080",
+          "imgSrc": null
+        },
+        {
+          "text": "6,629",
+          "imgSrc": null
+        },
+        {
+          "text": "4,843",
+          "imgSrc": null
+        },
+        {
+          "text": "31,991",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "七つの大罪 ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/179757_i.png"
+        },
+        {
+          "text": "94,450",
+          "imgSrc": null
+        },
+        {
+          "text": "6,502",
+          "imgSrc": null
+        },
+        {
+          "text": "4,926",
+          "imgSrc": null
+        },
+        {
+          "text": "31,988",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "聖戦の騎士 ギルサンダー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/296184_i.png"
+        },
+        {
+          "text": "97,196",
+          "imgSrc": null
+        },
+        {
+          "text": "6,281",
+          "imgSrc": null
+        },
+        {
+          "text": "4,739",
+          "imgSrc": null
+        },
+        {
+          "text": "31,977",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "森の守護者 キング",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150336_i.png"
+        },
+        {
+          "text": "94,910",
+          "imgSrc": null
+        },
+        {
+          "text": "7,110",
+          "imgSrc": null
+        },
+        {
+          "text": "4,033",
+          "imgSrc": null
+        },
+        {
+          "text": "31,952",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "マトローナ ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150352_i.png"
+        },
+        {
+          "text": "94,350",
+          "imgSrc": null
+        },
+        {
+          "text": "6,732",
+          "imgSrc": null
+        },
+        {
+          "text": "4,613",
+          "imgSrc": null
+        },
+        {
+          "text": "31,840",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ハロウィン ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/298006_i.png"
+        },
+        {
+          "text": "90,970",
+          "imgSrc": null
+        },
+        {
+          "text": "6,800",
+          "imgSrc": null
+        },
+        {
+          "text": "4,663",
+          "imgSrc": null
+        },
+        {
+          "text": "31,830",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "魔神族の精鋭 モンスピート",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/195136_i.png"
+        },
+        {
+          "text": "88,480",
+          "imgSrc": null
+        },
+        {
+          "text": "6,663",
+          "imgSrc": null
+        },
+        {
+          "text": "5,552",
+          "imgSrc": null
+        },
+        {
+          "text": "31,773",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "腐蝕 ヘンドリクセン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150354_i.png"
+        },
+        {
+          "text": "98,010",
+          "imgSrc": null
+        },
+        {
+          "text": "6,026",
+          "imgSrc": null
+        },
+        {
+          "text": "4,544",
+          "imgSrc": null
+        },
+        {
+          "text": "31,753",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "憤怒の罪 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150488_i.png"
+        },
+        {
+          "text": "92,860",
+          "imgSrc": null
+        },
+        {
+          "text": "6,641",
+          "imgSrc": null
+        },
+        {
+          "text": "4,461",
+          "imgSrc": null
+        },
+        {
+          "text": "31,748",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リバース エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/158090_i.png"
+        },
+        {
+          "text": "91,480",
+          "imgSrc": null
+        },
+        {
+          "text": "6,582",
+          "imgSrc": null
+        },
+        {
+          "text": "4,882",
+          "imgSrc": null
+        },
+        {
+          "text": "31,736",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "無法者 バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150346_i.png"
+        },
+        {
+          "text": "88,908",
+          "imgSrc": null
+        },
+        {
+          "text": "7,005",
+          "imgSrc": null
+        },
+        {
+          "text": "4,715",
+          "imgSrc": null
+        },
+        {
+          "text": "31,731",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "コレクター マーリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/155321_i.png"
+        },
+        {
+          "text": "91,750",
+          "imgSrc": null
+        },
+        {
+          "text": "6,870",
+          "imgSrc": null
+        },
+        {
+          "text": "4,832",
+          "imgSrc": null
+        },
+        {
+          "text": "31,692",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "運命の継承者 アーサー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/191561_i.png"
+        },
+        {
+          "text": "90,760",
+          "imgSrc": null
+        },
+        {
+          "text": "6,681",
+          "imgSrc": null
+        },
+        {
+          "text": "4,793",
+          "imgSrc": null
+        },
+        {
+          "text": "31,677",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "キャメロットの剣 アーサー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/164104_i.png"
+        },
+        {
+          "text": "90,760",
+          "imgSrc": null
+        },
+        {
+          "text": "6,841",
+          "imgSrc": null
+        },
+        {
+          "text": "4,805",
+          "imgSrc": null
+        },
+        {
+          "text": "31,610",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "十戒 モンスピート",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/174229_i.png"
+        },
+        {
+          "text": "87,280",
+          "imgSrc": null
+        },
+        {
+          "text": "6,343",
+          "imgSrc": null
+        },
+        {
+          "text": "6,008",
+          "imgSrc": null
+        },
+        {
+          "text": "31,580",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ストレンジャー・シングス マイク・ウィーラー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/273610_i.png"
+        },
+        {
+          "text": "91,985",
+          "imgSrc": null
+        },
+        {
+          "text": "6,120",
+          "imgSrc": null
+        },
+        {
+          "text": "5,312",
+          "imgSrc": null
+        },
+        {
+          "text": "31,573",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ダンジョン攻略者 シン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/202659_i.png"
+        },
+        {
+          "text": "87,925",
+          "imgSrc": null
+        },
+        {
+          "text": "7,090",
+          "imgSrc": null
+        },
+        {
+          "text": "4,979",
+          "imgSrc": null
+        },
+        {
+          "text": "31,537",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "強奪 バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150343_i.png"
+        },
+        {
+          "text": "87,708",
+          "imgSrc": null
+        },
+        {
+          "text": "6,925",
+          "imgSrc": null
+        },
+        {
+          "text": "4,535",
+          "imgSrc": null
+        },
+        {
+          "text": "31,525",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "KOF ‘98 麻宮アテナ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/229854_i.png"
+        },
+        {
+          "text": "86,318",
+          "imgSrc": null
+        },
+        {
+          "text": "6,841",
+          "imgSrc": null
+        },
+        {
+          "text": "5,408",
+          "imgSrc": null
+        },
+        {
+          "text": "31,504",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "新たな神話 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/181825_i.png"
+        },
+        {
+          "text": "92,860",
+          "imgSrc": null
+        },
+        {
+          "text": "6,561",
+          "imgSrc": null
+        },
+        {
+          "text": "4,461",
+          "imgSrc": null
+        },
+        {
+          "text": "31,481",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "甘い誘惑 ジェンナ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/186597_i.png"
+        },
+        {
+          "text": "88,610",
+          "imgSrc": null
+        },
+        {
+          "text": "7,171",
+          "imgSrc": null
+        },
+        {
+          "text": "4,920",
+          "imgSrc": null
+        },
+        {
+          "text": "31,465",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "KOF ‘98 オメガ・ルガール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/229855_i.png"
+        },
+        {
+          "text": "89,180",
+          "imgSrc": null
+        },
+        {
+          "text": "6,560",
+          "imgSrc": null
+        },
+        {
+          "text": "5,357",
+          "imgSrc": null
+        },
+        {
+          "text": "31,458",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "キラキラバカンス バレンティ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/215943_i.png"
+        },
+        {
+          "text": "87,350",
+          "imgSrc": null
+        },
+        {
+          "text": "6,765",
+          "imgSrc": null
+        },
+        {
+          "text": "5,869",
+          "imgSrc": null
+        },
+        {
+          "text": "31,447",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "灰色の欲望 ヘンドリクセン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/224293_i.png"
+        },
+        {
+          "text": "87,175",
+          "imgSrc": null
+        },
+        {
+          "text": "6,713",
+          "imgSrc": null
+        },
+        {
+          "text": "4,990",
+          "imgSrc": null
+        },
+        {
+          "text": "31,427",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "嫉妬の罪 ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/151157_i.png"
+        },
+        {
+          "text": "90,450",
+          "imgSrc": null
+        },
+        {
+          "text": "6,662",
+          "imgSrc": null
+        },
+        {
+          "text": "4,926",
+          "imgSrc": null
+        },
+        {
+          "text": "31,397",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "カンフーマスター ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150351_i.png"
+        },
+        {
+          "text": "90,350",
+          "imgSrc": null
+        },
+        {
+          "text": "6,652",
+          "imgSrc": null
+        },
+        {
+          "text": "4,613",
+          "imgSrc": null
+        },
+        {
+          "text": "31,379",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "三節棍 バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/165531_i.png"
+        },
+        {
+          "text": "90,770",
+          "imgSrc": null
+        },
+        {
+          "text": "7,299",
+          "imgSrc": null
+        },
+        {
+          "text": "3,816",
+          "imgSrc": null
+        },
+        {
+          "text": "31,368",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ハロウィン シン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/231855_i.png"
+        },
+        {
+          "text": "85,125",
+          "imgSrc": null
+        },
+        {
+          "text": "7,010",
+          "imgSrc": null
+        },
+        {
+          "text": "5,339",
+          "imgSrc": null
+        },
+        {
+          "text": "31,264",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "信念の塊 ザラトラス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/199881_i.png"
+        },
+        {
+          "text": "85,260",
+          "imgSrc": null
+        },
+        {
+          "text": "7,041",
+          "imgSrc": null
+        },
+        {
+          "text": "5,294",
+          "imgSrc": null
+        },
+        {
+          "text": "31,177",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "暴食の罪 マーリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/151264_i.png"
+        },
+        {
+          "text": "85,350",
+          "imgSrc": null
+        },
+        {
+          "text": "7,030",
+          "imgSrc": null
+        },
+        {
+          "text": "5,564",
+          "imgSrc": null
+        },
+        {
+          "text": "31,120",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "アンデッド バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150749_i.png"
+        },
+        {
+          "text": "100,171",
+          "imgSrc": null
+        },
+        {
+          "text": "5,807",
+          "imgSrc": null
+        },
+        {
+          "text": "3,539",
+          "imgSrc": null
+        },
+        {
+          "text": "30,999",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "エールコレクター バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/179758_i.png"
+        },
+        {
+          "text": "89,870",
+          "imgSrc": null
+        },
+        {
+          "text": "6,979",
+          "imgSrc": null
+        },
+        {
+          "text": "3,996",
+          "imgSrc": null
+        },
+        {
+          "text": "30,964",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "黒の六騎士 ベルリオン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/182942_i.png"
+        },
+        {
+          "text": "88,670",
+          "imgSrc": null
+        },
+        {
+          "text": "6,620",
+          "imgSrc": null
+        },
+        {
+          "text": "5,064",
+          "imgSrc": null
+        },
+        {
+          "text": "30,963",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "三千年の記憶 ゲラード",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/218790_i.png"
+        },
+        {
+          "text": "88,820",
+          "imgSrc": null
+        },
+        {
+          "text": "5,794",
+          "imgSrc": null
+        },
+        {
+          "text": "5,872",
+          "imgSrc": null
+        },
+        {
+          "text": "30,759",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "永遠の誓い ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/208043_i.png"
+        },
+        {
+          "text": "87,650",
+          "imgSrc": null
+        },
+        {
+          "text": "6,262",
+          "imgSrc": null
+        },
+        {
+          "text": "5,286",
+          "imgSrc": null
+        },
+        {
+          "text": "30,670",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "憤怒の騎士 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/174230_i.png"
+        },
+        {
+          "text": "88,860",
+          "imgSrc": null
+        },
+        {
+          "text": "6,641",
+          "imgSrc": null
+        },
+        {
+          "text": "4,365",
+          "imgSrc": null
+        },
+        {
+          "text": "30,639",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "森の守護者 ヘルブラム",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150355_i.png"
+        },
+        {
+          "text": "89,850",
+          "imgSrc": null
+        },
+        {
+          "text": "6,980",
+          "imgSrc": null
+        },
+        {
+          "text": "3,982",
+          "imgSrc": null
+        },
+        {
+          "text": "30,601",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "死の案内者 モノ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/190731_i.png"
+        },
+        {
+          "text": "79,840",
+          "imgSrc": null
+        },
+        {
+          "text": "7,310",
+          "imgSrc": null
+        },
+        {
+          "text": "4,808",
+          "imgSrc": null
+        },
+        {
+          "text": "30,583",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "威圧 スレイダー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150365_i.png"
+        },
+        {
+          "text": "86,350",
+          "imgSrc": null
+        },
+        {
+          "text": "7,010",
+          "imgSrc": null
+        },
+        {
+          "text": "4,284",
+          "imgSrc": null
+        },
+        {
+          "text": "30,547",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "七つの大罪 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150241_i.png"
+        },
+        {
+          "text": "91,680",
+          "imgSrc": null
+        },
+        {
+          "text": "6,442",
+          "imgSrc": null
+        },
+        {
+          "text": "4,016",
+          "imgSrc": null
+        },
+        {
+          "text": "30,506",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "王国の期待の星 ギルサンダー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150737_i.png"
+        },
+        {
+          "text": "92,697",
+          "imgSrc": null
+        },
+        {
+          "text": "5,521",
+          "imgSrc": null
+        },
+        {
+          "text": "4,814",
+          "imgSrc": null
+        },
+        {
+          "text": "30,482",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "蒼天の六連星 デンゼル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/256601_i.png"
+        },
+        {
+          "text": "79,100",
+          "imgSrc": null
+        },
+        {
+          "text": "6,301",
+          "imgSrc": null
+        },
+        {
+          "text": "6,138",
+          "imgSrc": null
+        },
+        {
+          "text": "30,305",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "貴族 ヘルブラム",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/223466_i.png"
+        },
+        {
+          "text": "89,850",
+          "imgSrc": null
+        },
+        {
+          "text": "7,060",
+          "imgSrc": null
+        },
+        {
+          "text": "3,610",
+          "imgSrc": null
+        },
+        {
+          "text": "30,248",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "暁闇の咆哮 ジリアン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150747_i.png"
+        },
+        {
+          "text": "94,420",
+          "imgSrc": null
+        },
+        {
+          "text": "5,660",
+          "imgSrc": null
+        },
+        {
+          "text": "4,264",
+          "imgSrc": null
+        },
+        {
+          "text": "30,144",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "明日はチャンピオン メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/347576_i.png"
+        },
+        {
+          "text": "88,980",
+          "imgSrc": null
+        },
+        {
+          "text": "6,362",
+          "imgSrc": null
+        },
+        {
+          "text": "4,508",
+          "imgSrc": null
+        },
+        {
+          "text": "30,121",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "記憶の破片 リズ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/247584_i.png"
+        },
+        {
+          "text": "80,200",
+          "imgSrc": null
+        },
+        {
+          "text": "7,538",
+          "imgSrc": null
+        },
+        {
+          "text": "4,609",
+          "imgSrc": null
+        },
+        {
+          "text": "30,103",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "爆炎 ギーラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150333_i.png"
+        },
+        {
+          "text": "85,720",
+          "imgSrc": null
+        },
+        {
+          "text": "6,920",
+          "imgSrc": null
+        },
+        {
+          "text": "4,156",
+          "imgSrc": null
+        },
+        {
+          "text": "29,912",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "騎士道 ギルサンダー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150750_i.png"
+        },
+        {
+          "text": "89,897",
+          "imgSrc": null
+        },
+        {
+          "text": "5,841",
+          "imgSrc": null
+        },
+        {
+          "text": "4,550",
+          "imgSrc": null
+        },
+        {
+          "text": "29,743",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "蒼天の六連星 デスピアス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/175062_i.png"
+        },
+        {
+          "text": "87,020",
+          "imgSrc": null
+        },
+        {
+          "text": "6,554",
+          "imgSrc": null
+        },
+        {
+          "text": "4,014",
+          "imgSrc": null
+        },
+        {
+          "text": "29,726",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "甘い誘惑 エレイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/186596_i.png"
+        },
+        {
+          "text": "88,280",
+          "imgSrc": null
+        },
+        {
+          "text": "6,221",
+          "imgSrc": null
+        },
+        {
+          "text": "4,212",
+          "imgSrc": null
+        },
+        {
+          "text": "29,713",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ハロウィン ギーラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/172921_i.png"
+        },
+        {
+          "text": "89,720",
+          "imgSrc": null
+        },
+        {
+          "text": "6,360",
+          "imgSrc": null
+        },
+        {
+          "text": "3,616",
+          "imgSrc": null
+        },
+        {
+          "text": "29,674",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "砕貫 ドレファス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/155322_i.png"
+        },
+        {
+          "text": "85,800",
+          "imgSrc": null
+        },
+        {
+          "text": "6,105",
+          "imgSrc": null
+        },
+        {
+          "text": "4,810",
+          "imgSrc": null
+        },
+        {
+          "text": "29,643",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "移動型酒場 エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150748_i.png"
+        },
+        {
+          "text": "85,730",
+          "imgSrc": null
+        },
+        {
+          "text": "6,186",
+          "imgSrc": null
+        },
+        {
+          "text": "4,348",
+          "imgSrc": null
+        },
+        {
+          "text": "29,345",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ハロウィン メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/172914_i.png"
+        },
+        {
+          "text": "86,480",
+          "imgSrc": null
+        },
+        {
+          "text": "6,282",
+          "imgSrc": null
+        },
+        {
+          "text": "4,292",
+          "imgSrc": null
+        },
+        {
+          "text": "29,341",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "新しい酒場 ホーク",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/344220_i.png"
+        },
+        {
+          "text": "82,150",
+          "imgSrc": null
+        },
+        {
+          "text": "6,226",
+          "imgSrc": null
+        },
+        {
+          "text": "5,150",
+          "imgSrc": null
+        },
+        {
+          "text": "29,250",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "妖精王の森 エレイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/162109_i.png"
+        },
+        {
+          "text": "83,080",
+          "imgSrc": null
+        },
+        {
+          "text": "6,781",
+          "imgSrc": null
+        },
+        {
+          "text": "4,212",
+          "imgSrc": null
+        },
+        {
+          "text": "29,205",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "リオネスの貴族 ハウザー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150735_i.png"
+        },
+        {
+          "text": "91,470",
+          "imgSrc": null
+        },
+        {
+          "text": "4,930",
+          "imgSrc": null
+        },
+        {
+          "text": "4,488",
+          "imgSrc": null
+        },
+        {
+          "text": "29,176",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "王国の期待の星 ハウザー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150741_i.png"
+        },
+        {
+          "text": "87,470",
+          "imgSrc": null
+        },
+        {
+          "text": "5,570",
+          "imgSrc": null
+        },
+        {
+          "text": "4,572",
+          "imgSrc": null
+        },
+        {
+          "text": "29,006",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "訓練兵団 エレン・イェーガー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/212389_i.png"
+        },
+        {
+          "text": "83,440",
+          "imgSrc": null
+        },
+        {
+          "text": "6,533",
+          "imgSrc": null
+        },
+        {
+          "text": "4,116",
+          "imgSrc": null
+        },
+        {
+          "text": "28,991",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "混沌の予兆 ヘンドリクセン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/155323_i.png"
+        },
+        {
+          "text": "89,660",
+          "imgSrc": null
+        },
+        {
+          "text": "5,330",
+          "imgSrc": null
+        },
+        {
+          "text": "4,296",
+          "imgSrc": null
+        },
+        {
+          "text": "28,975",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ハロウィン エレイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/172917_i.png"
+        },
+        {
+          "text": "83,080",
+          "imgSrc": null
+        },
+        {
+          "text": "6,301",
+          "imgSrc": null
+        },
+        {
+          "text": "4,572",
+          "imgSrc": null
+        },
+        {
+          "text": "28,975",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "冒険家 グリアモール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150742_i.png"
+        },
+        {
+          "text": "89,950",
+          "imgSrc": null
+        },
+        {
+          "text": "4,976",
+          "imgSrc": null
+        },
+        {
+          "text": "4,608",
+          "imgSrc": null
+        },
+        {
+          "text": "28,958",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "蒼天の六連星 デルドレー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/178919_i.png"
+        },
+        {
+          "text": "81,540",
+          "imgSrc": null
+        },
+        {
+          "text": "5,806",
+          "imgSrc": null
+        },
+        {
+          "text": "4,972",
+          "imgSrc": null
+        },
+        {
+          "text": "28,814",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "決定 ツイーゴ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150727_i.png"
+        },
+        {
+          "text": "89,820",
+          "imgSrc": null
+        },
+        {
+          "text": "5,728",
+          "imgSrc": null
+        },
+        {
+          "text": "3,625",
+          "imgSrc": null
+        },
+        {
+          "text": "28,758",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "マスコット エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/151158_i.png"
+        },
+        {
+          "text": "81,730",
+          "imgSrc": null
+        },
+        {
+          "text": "6,266",
+          "imgSrc": null
+        },
+        {
+          "text": "4,528",
+          "imgSrc": null
+        },
+        {
+          "text": "28,729",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "チャンピオン グリアモール",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150733_i.png"
+        },
+        {
+          "text": "85,950",
+          "imgSrc": null
+        },
+        {
+          "text": "5,456",
+          "imgSrc": null
+        },
+        {
+          "text": "4,692",
+          "imgSrc": null
+        },
+        {
+          "text": "28,649",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "混沌の予兆 ドレファス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/151160_i.png"
+        },
+        {
+          "text": "80,600",
+          "imgSrc": null
+        },
+        {
+          "text": "6,185",
+          "imgSrc": null
+        },
+        {
+          "text": "4,810",
+          "imgSrc": null
+        },
+        {
+          "text": "28,510",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "定めの王 アーサー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/164256_i.png"
+        },
+        {
+          "text": "80,020",
+          "imgSrc": null
+        },
+        {
+          "text": "6,186",
+          "imgSrc": null
+        },
+        {
+          "text": "4,674",
+          "imgSrc": null
+        },
+        {
+          "text": "28,493",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "大地の心臓 ディアンヌ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/151161_i.png"
+        },
+        {
+          "text": "82,680",
+          "imgSrc": null
+        },
+        {
+          "text": "5,907",
+          "imgSrc": null
+        },
+        {
+          "text": "4,590",
+          "imgSrc": null
+        },
+        {
+          "text": "28,463",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "豚の帽子亭 エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/154547_i.png"
+        },
+        {
+          "text": "84,350",
+          "imgSrc": null
+        },
+        {
+          "text": "5,866",
+          "imgSrc": null
+        },
+        {
+          "text": "4,118",
+          "imgSrc": null
+        },
+        {
+          "text": "28,461",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "手配犯 ゴウセル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150736_i.png"
+        },
+        {
+          "text": "82,940",
+          "imgSrc": null
+        },
+        {
+          "text": "5,944",
+          "imgSrc": null
+        },
+        {
+          "text": "4,196",
+          "imgSrc": null
+        },
+        {
+          "text": "28,326",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "不気味な牙 フリージア",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150739_i.png"
+        },
+        {
+          "text": "91,120",
+          "imgSrc": null
+        },
+        {
+          "text": "5,048",
+          "imgSrc": null
+        },
+        {
+          "text": "3,426",
+          "imgSrc": null
+        },
+        {
+          "text": "28,315",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "暁闇の咆哮 スレイダー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150746_i.png"
+        },
+        {
+          "text": "77,690",
+          "imgSrc": null
+        },
+        {
+          "text": "6,354",
+          "imgSrc": null
+        },
+        {
+          "text": "4,132",
+          "imgSrc": null
+        },
+        {
+          "text": "28,194",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "豚の帽子亭 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/151159_i.png"
+        },
+        {
+          "text": "80,720",
+          "imgSrc": null
+        },
+        {
+          "text": "6,066",
+          "imgSrc": null
+        },
+        {
+          "text": "4,254",
+          "imgSrc": null
+        },
+        {
+          "text": "28,004",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "氷の騎士 グスタフ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/155413_i.png"
+        },
+        {
+          "text": "86,280",
+          "imgSrc": null
+        },
+        {
+          "text": "5,548",
+          "imgSrc": null
+        },
+        {
+          "text": "3,459",
+          "imgSrc": null
+        },
+        {
+          "text": "27,982",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "燃え上がる炎 ケイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150745_i.png"
+        },
+        {
+          "text": "83,100",
+          "imgSrc": null
+        },
+        {
+          "text": "6,046",
+          "imgSrc": null
+        },
+        {
+          "text": "3,675",
+          "imgSrc": null
+        },
+        {
+          "text": "27,868",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "不気味な牙 ゴルギウス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150725_i.png"
+        },
+        {
+          "text": "86,220",
+          "imgSrc": null
+        },
+        {
+          "text": "5,330",
+          "imgSrc": null
+        },
+        {
+          "text": "3,556",
+          "imgSrc": null
+        },
+        {
+          "text": "27,781",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "蒼天の六連星 アーデン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/178920_i.png"
+        },
+        {
+          "text": "80,100",
+          "imgSrc": null
+        },
+        {
+          "text": "5,348",
+          "imgSrc": null
+        },
+        {
+          "text": "4,433",
+          "imgSrc": null
+        },
+        {
+          "text": "27,571",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "山猫の髭 アリオーニ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150730_i.png"
+        },
+        {
+          "text": "78,680",
+          "imgSrc": null
+        },
+        {
+          "text": "5,510",
+          "imgSrc": null
+        },
+        {
+          "text": "4,674",
+          "imgSrc": null
+        },
+        {
+          "text": "27,425",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ドンドンチャッチャッ マルマス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150722_i.png"
+        },
+        {
+          "text": "82,750",
+          "imgSrc": null
+        },
+        {
+          "text": "5,298",
+          "imgSrc": null
+        },
+        {
+          "text": "4,206",
+          "imgSrc": null
+        },
+        {
+          "text": "27,396",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "バイゼル喧嘩祭り タイズー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150719_i.png"
+        },
+        {
+          "text": "85,760",
+          "imgSrc": null
+        },
+        {
+          "text": "4,794",
+          "imgSrc": null
+        },
+        {
+          "text": "3,900",
+          "imgSrc": null
+        },
+        {
+          "text": "27,357",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "レイピア ギーラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150740_i.png"
+        },
+        {
+          "text": "79,350",
+          "imgSrc": null
+        },
+        {
+          "text": "5,674",
+          "imgSrc": null
+        },
+        {
+          "text": "3,938",
+          "imgSrc": null
+        },
+        {
+          "text": "27,140",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "蒼天の六連星 ワイーヨ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/221408_i.png"
+        },
+        {
+          "text": "76,090",
+          "imgSrc": null
+        },
+        {
+          "text": "5,487",
+          "imgSrc": null
+        },
+        {
+          "text": "4,767",
+          "imgSrc": null
+        },
+        {
+          "text": "27,135",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "暁闇の咆哮 ワインハイト",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150738_i.png"
+        },
+        {
+          "text": "79,940",
+          "imgSrc": null
+        },
+        {
+          "text": "5,825",
+          "imgSrc": null
+        },
+        {
+          "text": "3,408",
+          "imgSrc": null
+        },
+        {
+          "text": "27,009",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "独眼の権力者 ヘルブラム",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/194427_i.png"
+        },
+        {
+          "text": "76,550",
+          "imgSrc": null
+        },
+        {
+          "text": "6,360",
+          "imgSrc": null
+        },
+        {
+          "text": "3,636",
+          "imgSrc": null
+        },
+        {
+          "text": "26,890",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "スライム リムル=テンペスト",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/159525_i.png"
+        },
+        {
+          "text": "76,680",
+          "imgSrc": null
+        },
+        {
+          "text": "5,505",
+          "imgSrc": null
+        },
+        {
+          "text": "4,376",
+          "imgSrc": null
+        },
+        {
+          "text": "26,817",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "不気味な牙 ルイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150724_i.png"
+        },
+        {
+          "text": "79,700",
+          "imgSrc": null
+        },
+        {
+          "text": "4,941",
+          "imgSrc": null
+        },
+        {
+          "text": "4,494",
+          "imgSrc": null
+        },
+        {
+          "text": "26,810",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "不気味な牙 ジュド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150723_i.png"
+        },
+        {
+          "text": "81,720",
+          "imgSrc": null
+        },
+        {
+          "text": "5,688",
+          "imgSrc": null
+        },
+        {
+          "text": "3,240",
+          "imgSrc": null
+        },
+        {
+          "text": "26,795",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "蒼天の六連星 ドゲッド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/175063_i.png"
+        },
+        {
+          "text": "76,540",
+          "imgSrc": null
+        },
+        {
+          "text": "5,467",
+          "imgSrc": null
+        },
+        {
+          "text": "4,524",
+          "imgSrc": null
+        },
+        {
+          "text": "26,619",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "冒険家 ジェリコ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150744_i.png"
+        },
+        {
+          "text": "69,775",
+          "imgSrc": null
+        },
+        {
+          "text": "6,787",
+          "imgSrc": null
+        },
+        {
+          "text": "4,020",
+          "imgSrc": null
+        },
+        {
+          "text": "26,607",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "新世代 ジェリコ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150743_i.png"
+        },
+        {
+          "text": "69,775",
+          "imgSrc": null
+        },
+        {
+          "text": "6,387",
+          "imgSrc": null
+        },
+        {
+          "text": "4,212",
+          "imgSrc": null
+        },
+        {
+          "text": "26,512",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "暁闇の咆哮 ヒューゴ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150720_i.png"
+        },
+        {
+          "text": "81,300",
+          "imgSrc": null
+        },
+        {
+          "text": "5,290",
+          "imgSrc": null
+        },
+        {
+          "text": "2,964",
+          "imgSrc": null
+        },
+        {
+          "text": "26,290",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "暁闇の咆哮 サイモン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150721_i.png"
+        },
+        {
+          "text": "75,770",
+          "imgSrc": null
+        },
+        {
+          "text": "5,661",
+          "imgSrc": null
+        },
+        {
+          "text": "3,295",
+          "imgSrc": null
+        },
+        {
+          "text": "25,837",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "執着の鬼 ビビアン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/170520_i.png"
+        },
+        {
+          "text": "71,350",
+          "imgSrc": null
+        },
+        {
+          "text": "5,750",
+          "imgSrc": null
+        },
+        {
+          "text": "3,456",
+          "imgSrc": null
+        },
+        {
+          "text": "25,448",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    }
+  ]
 }
