@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T00:15:04.887505+00:00",
+  "updated": "2026-06-18T05:51:02.516961+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -3172,6 +3172,31 @@
         },
         {
           "text": "35,503",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "絶望の大神官 チャンドラー",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/564118_i.png"
+        },
+        {
+          "text": "102,345",
+          "imgSrc": null
+        },
+        {
+          "text": "7,231",
+          "imgSrc": null
+        },
+        {
+          "text": "5,364",
+          "imgSrc": null
+        },
+        {
+          "text": "35,474",
           "imgSrc": null
         }
       ],
