@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T00:03:11.109237+00:00",
+  "updated": "2026-06-25T04:59:47.432975+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -880,6 +880,31 @@
     {
       "cells": [
         {
+          "text": "チームアクタ エンジン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/565144_i.png"
+        },
+        {
+          "text": "104,400",
+          "imgSrc": null
+        },
+        {
+          "text": "8,672",
+          "imgSrc": null
+        },
+        {
+          "text": "6,048",
+          "imgSrc": null
+        },
+        {
+          "text": "38,976",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
           "text": "S級ハンター 向坂雫",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/504644_i.png"
         },
@@ -947,6 +972,31 @@
         },
         {
           "text": "38,931",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "チームアクタ リヨウ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/565146_i.png"
+        },
+        {
+          "text": "104,720",
+          "imgSrc": null
+        },
+        {
+          "text": "8,642",
+          "imgSrc": null
+        },
+        {
+          "text": "5,969",
+          "imgSrc": null
+        },
+        {
+          "text": "38,920",
           "imgSrc": null
         }
       ],
@@ -1072,6 +1122,31 @@
         },
         {
           "text": "38,850",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "チームアクタ ルド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/565143_i.png"
+        },
+        {
+          "text": "107,590",
+          "imgSrc": null
+        },
+        {
+          "text": "6,763",
+          "imgSrc": null
+        },
+        {
+          "text": "7,417",
+          "imgSrc": null
+        },
+        {
+          "text": "38,802",
           "imgSrc": null
         }
       ],
@@ -1247,6 +1322,31 @@
         },
         {
           "text": "38,572",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "チームアクタ ザンカ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/565145_i.png"
+        },
+        {
+          "text": "104,510",
+          "imgSrc": null
+        },
+        {
+          "text": "7,835",
+          "imgSrc": null
+        },
+        {
+          "text": "6,462",
+          "imgSrc": null
+        },
+        {
+          "text": "38,493",
           "imgSrc": null
         }
       ],
