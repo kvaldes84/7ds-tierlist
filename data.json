@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T02:25:55.303682+00:00",
+  "updated": "2026-07-23T05:47:59.192311+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -447,6 +447,56 @@
         },
         {
           "text": "40,305",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "すれ違った世界 メリオダス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/569132_i.png"
+        },
+        {
+          "text": "111,020",
+          "imgSrc": null
+        },
+        {
+          "text": "8,419",
+          "imgSrc": null
+        },
+        {
+          "text": "6,223",
+          "imgSrc": null
+        },
+        {
+          "text": "40,181",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "すれ違った世界 バン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/569133_i.png"
+        },
+        {
+          "text": "111,990",
+          "imgSrc": null
+        },
+        {
+          "text": "8,092",
+          "imgSrc": null
+        },
+        {
+          "text": "6,344",
+          "imgSrc": null
+        },
+        {
+          "text": "40,094",
           "imgSrc": null
         }
       ],
