@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T01:55:36.783140+00:00",
+  "updated": "2026-08-06T05:11:21.182622+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -1397,6 +1397,31 @@
         },
         {
           "text": "38,572",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "ダンジョン攻略者 シン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/202659_i.png"
+        },
+        {
+          "text": "101,300",
+          "imgSrc": null
+        },
+        {
+          "text": "9,023",
+          "imgSrc": null
+        },
+        {
+          "text": "6,168",
+          "imgSrc": null
+        },
+        {
+          "text": "38,521",
           "imgSrc": null
         }
       ],
@@ -3197,6 +3222,31 @@
         },
         {
           "text": "35,668",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "波の研究者 マーリン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/571379_i.png"
+        },
+        {
+          "text": "101,495",
+          "imgSrc": null
+        },
+        {
+          "text": "7,408",
+          "imgSrc": null
+        },
+        {
+          "text": "5,224",
+          "imgSrc": null
+        },
+        {
+          "text": "35,641",
           "imgSrc": null
         }
       ],
@@ -7322,31 +7372,6 @@
         },
         {
           "text": "31,573",
-          "imgSrc": null
-        }
-      ],
-      "isHeader": false
-    },
-    {
-      "cells": [
-        {
-          "text": "ダンジョン攻略者 シン",
-          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/202659_i.png"
-        },
-        {
-          "text": "87,925",
-          "imgSrc": null
-        },
-        {
-          "text": "7,090",
-          "imgSrc": null
-        },
-        {
-          "text": "4,979",
-          "imgSrc": null
-        },
-        {
-          "text": "31,537",
           "imgSrc": null
         }
       ],
