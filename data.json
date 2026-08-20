@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T03:40:22.584885+00:00",
+  "updated": "2026-08-20T04:30:21.831200+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -197,6 +197,31 @@
         },
         {
           "text": "41,678",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "金色の魔力 ガウェイン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/572954_i.png"
+        },
+        {
+          "text": "114,690",
+          "imgSrc": null
+        },
+        {
+          "text": "8,815",
+          "imgSrc": null
+        },
+        {
+          "text": "6,194",
+          "imgSrc": null
+        },
+        {
+          "text": "41,431",
           "imgSrc": null
         }
       ],
@@ -3730,7 +3755,7 @@
     {
       "cells": [
         {
-          "text": "旅行の導き手 シン",
+          "text": "旅行の導き手 キツネ シン",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/537515_i.png"
         },
         {
