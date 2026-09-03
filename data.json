@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T02:26:30.188724+00:00",
+  "updated": "2026-09-03T07:36:34.935080+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -755,6 +755,31 @@
     {
       "cells": [
         {
+          "text": "自由な風 ランスロット",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/574846_i.png"
+        },
+        {
+          "text": "110,560",
+          "imgSrc": null
+        },
+        {
+          "text": "8,312",
+          "imgSrc": null
+        },
+        {
+          "text": "5,741",
+          "imgSrc": null
+        },
+        {
+          "text": "39,250",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
           "text": "十戒 グロキシニア",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/178025_i.png"
         },
@@ -1430,6 +1455,31 @@
     {
       "cells": [
         {
+          "text": "魔神族の精鋭 メラスキュラ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/188415_i.png"
+        },
+        {
+          "text": "109,755",
+          "imgSrc": null
+        },
+        {
+          "text": "6,860",
+          "imgSrc": null
+        },
+        {
+          "text": "6,298",
+          "imgSrc": null
+        },
+        {
+          "text": "38,533",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
           "text": "ダンジョン攻略者 シン",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/202659_i.png"
         },
@@ -1697,6 +1747,31 @@
         },
         {
           "text": "38,341",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "冒険の始まり パーシバル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/452282_i.png"
+        },
+        {
+          "text": "111,060",
+          "imgSrc": null
+        },
+        {
+          "text": "7,408",
+          "imgSrc": null
+        },
+        {
+          "text": "5,971",
+          "imgSrc": null
+        },
+        {
+          "text": "38,332",
           "imgSrc": null
         }
       ],
@@ -2597,31 +2672,6 @@
         },
         {
           "text": "36,876",
-          "imgSrc": null
-        }
-      ],
-      "isHeader": false
-    },
-    {
-      "cells": [
-        {
-          "text": "冒険の始まり パーシバル",
-          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/452282_i.png"
-        },
-        {
-          "text": "106,860",
-          "imgSrc": null
-        },
-        {
-          "text": "7,008",
-          "imgSrc": null
-        },
-        {
-          "text": "5,646",
-          "imgSrc": null
-        },
-        {
-          "text": "36,832",
           "imgSrc": null
         }
       ],
@@ -6122,31 +6172,6 @@
         },
         {
           "text": "32,822",
-          "imgSrc": null
-        }
-      ],
-      "isHeader": false
-    },
-    {
-      "cells": [
-        {
-          "text": "魔神族の精鋭 メラスキュラ",
-          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/188415_i.png"
-        },
-        {
-          "text": "93,600",
-          "imgSrc": null
-        },
-        {
-          "text": "6,662",
-          "imgSrc": null
-        },
-        {
-          "text": "5,446",
-          "imgSrc": null
-        },
-        {
-          "text": "32,788",
           "imgSrc": null
         }
       ],
