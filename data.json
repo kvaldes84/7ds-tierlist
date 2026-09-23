@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T01:08:34.796224+00:00",
+  "updated": "2026-09-23T07:07:16.846181+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -26,6 +26,31 @@
         }
       ],
       "isHeader": true
+    },
+    {
+      "cells": [
+        {
+          "text": "最後の未来 スクルド",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/520144_i.png"
+        },
+        {
+          "text": "121,280",
+          "imgSrc": null
+        },
+        {
+          "text": "8,673",
+          "imgSrc": null
+        },
+        {
+          "text": "7,456",
+          "imgSrc": null
+        },
+        {
+          "text": "43,241",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
     },
     {
       "cells": [
@@ -155,6 +180,31 @@
     {
       "cells": [
         {
+          "text": "全知全能 オーディン",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/578277_i.png"
+        },
+        {
+          "text": "116,175",
+          "imgSrc": null
+        },
+        {
+          "text": "8,667",
+          "imgSrc": null
+        },
+        {
+          "text": "6,640",
+          "imgSrc": null
+        },
+        {
+          "text": "41,762",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
           "text": "正義の鉄槌 トール",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/457841_i.png"
         },
@@ -247,31 +297,6 @@
         },
         {
           "text": "41,381",
-          "imgSrc": null
-        }
-      ],
-      "isHeader": false
-    },
-    {
-      "cells": [
-        {
-          "text": "最後の未来 スクルド",
-          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/520144_i.png"
-        },
-        {
-          "text": "116,280",
-          "imgSrc": null
-        },
-        {
-          "text": "7,993",
-          "imgSrc": null
-        },
-        {
-          "text": "7,056",
-          "imgSrc": null
-        },
-        {
-          "text": "41,241",
           "imgSrc": null
         }
       ],
