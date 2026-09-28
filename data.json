@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T00:13:13.783056+00:00",
+  "updated": "2026-09-28T06:12:32.250427+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -2730,6 +2730,31 @@
     {
       "cells": [
         {
+          "text": "魅了の女王 フレイヤ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/385418_i.png"
+        },
+        {
+          "text": "100,960",
+          "imgSrc": null
+        },
+        {
+          "text": "8,375",
+          "imgSrc": null
+        },
+        {
+          "text": "5,524",
+          "imgSrc": null
+        },
+        {
+          "text": "36,819",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
           "text": "暴風 ハウザー",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/150282_i.png"
         },
@@ -3055,31 +3080,6 @@
     {
       "cells": [
         {
-          "text": "魅了の女王 フレイヤ",
-          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/385418_i.png"
-        },
-        {
-          "text": "99,310",
-          "imgSrc": null
-        },
-        {
-          "text": "8,245",
-          "imgSrc": null
-        },
-        {
-          "text": "5,474",
-          "imgSrc": null
-        },
-        {
-          "text": "36,319",
-          "imgSrc": null
-        }
-      ],
-      "isHeader": false
-    },
-    {
-      "cells": [
-        {
           "text": "和合の象徴 ハーレクイン",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/432458_i.png"
         },
@@ -3205,6 +3205,31 @@
     {
       "cells": [
         {
+          "text": "夏の幻 フレイヤ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/408317_i.png"
+        },
+        {
+          "text": "98,760",
+          "imgSrc": null
+        },
+        {
+          "text": "8,195",
+          "imgSrc": null
+        },
+        {
+          "text": "5,524",
+          "imgSrc": null
+        },
+        {
+          "text": "36,168",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
           "text": "歪められた闇 エスタロッサ",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/353477_i.png"
         },
@@ -3322,31 +3347,6 @@
         },
         {
           "text": "35,688",
-          "imgSrc": null
-        }
-      ],
-      "isHeader": false
-    },
-    {
-      "cells": [
-        {
-          "text": "夏の幻 フレイヤ",
-          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/408317_i.png"
-        },
-        {
-          "text": "97,110",
-          "imgSrc": null
-        },
-        {
-          "text": "8,065",
-          "imgSrc": null
-        },
-        {
-          "text": "5,474",
-          "imgSrc": null
-        },
-        {
-          "text": "35,668",
           "imgSrc": null
         }
       ],
