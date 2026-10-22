@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:13:14.023263+00:00",
+  "updated": "2026-10-22T06:56:17.963357+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -747,6 +747,31 @@
         },
         {
           "text": "39,401",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "豊穣の女王 フレイヤ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/583484_i.png"
+        },
+        {
+          "text": "106,820",
+          "imgSrc": null
+        },
+        {
+          "text": "8,870",
+          "imgSrc": null
+        },
+        {
+          "text": "5,770",
+          "imgSrc": null
+        },
+        {
+          "text": "39,383",
           "imgSrc": null
         }
       ],
