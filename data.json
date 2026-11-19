@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:54:49.422434+00:00",
+  "updated": "2026-11-19T08:16:35.672072+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -322,6 +322,31 @@
         },
         {
           "text": "41,178",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "純白の正義 エルラッテ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/425509_i.png"
+        },
+        {
+          "text": "113,580",
+          "imgSrc": null
+        },
+        {
+          "text": "7,937",
+          "imgSrc": null
+        },
+        {
+          "text": "7,130",
+          "imgSrc": null
+        },
+        {
+          "text": "41,171",
           "imgSrc": null
         }
       ],
@@ -4830,6 +4855,31 @@
     {
       "cells": [
         {
+          "text": "天空宮の守護者 エルラッテ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/316624_i.png"
+        },
+        {
+          "text": "100,060",
+          "imgSrc": null
+        },
+        {
+          "text": "7,101",
+          "imgSrc": null
+        },
+        {
+          "text": "5,278",
+          "imgSrc": null
+        },
+        {
+          "text": "34,061",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
           "text": "成長の証 キング",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/224292_i.png"
         },
@@ -5097,31 +5147,6 @@
         },
         {
           "text": "33,904",
-          "imgSrc": null
-        }
-      ],
-      "isHeader": false
-    },
-    {
-      "cells": [
-        {
-          "text": "純白の正義 エルラッテ",
-          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/425509_i.png"
-        },
-        {
-          "text": "99,160",
-          "imgSrc": null
-        },
-        {
-          "text": "6,921",
-          "imgSrc": null
-        },
-        {
-          "text": "5,294",
-          "imgSrc": null
-        },
-        {
-          "text": "33,867",
           "imgSrc": null
         }
       ],
@@ -5905,6 +5930,31 @@
     {
       "cells": [
         {
+          "text": "天空の翼 エルラッテ",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/180370_i.png"
+        },
+        {
+          "text": "94,260",
+          "imgSrc": null
+        },
+        {
+          "text": "7,081",
+          "imgSrc": null
+        },
+        {
+          "text": "5,638",
+          "imgSrc": null
+        },
+        {
+          "text": "33,212",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
           "text": "残飯処理騎士団 ホーク",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/260929_i.png"
         },
@@ -6147,31 +6197,6 @@
         },
         {
           "text": "33,074",
-          "imgSrc": null
-        }
-      ],
-      "isHeader": false
-    },
-    {
-      "cells": [
-        {
-          "text": "天空宮の守護者 エルラッテ",
-          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/316624_i.png"
-        },
-        {
-          "text": "96,760",
-          "imgSrc": null
-        },
-        {
-          "text": "6,921",
-          "imgSrc": null
-        },
-        {
-          "text": "5,078",
-          "imgSrc": null
-        },
-        {
-          "text": "33,061",
           "imgSrc": null
         }
       ],
@@ -7122,31 +7147,6 @@
         },
         {
           "text": "32,257",
-          "imgSrc": null
-        }
-      ],
-      "isHeader": false
-    },
-    {
-      "cells": [
-        {
-          "text": "天空の翼 エルラッテ",
-          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/180370_i.png"
-        },
-        {
-          "text": "90,960",
-          "imgSrc": null
-        },
-        {
-          "text": "6,901",
-          "imgSrc": null
-        },
-        {
-          "text": "5,438",
-          "imgSrc": null
-        },
-        {
-          "text": "32,212",
           "imgSrc": null
         }
       ],
