@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T03:53:16.721393+00:00",
+  "updated": "2026-11-26T13:26:30.290718+00:00",
   "source": "https://gamewith.jp/7taizai/article/show/158813",
   "rows": [
     {
@@ -180,6 +180,31 @@
     {
       "cells": [
         {
+          "text": "黒に染まった翼 マエル",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/486102_i.png"
+        },
+        {
+          "text": "117,080",
+          "imgSrc": null
+        },
+        {
+          "text": "8,758",
+          "imgSrc": null
+        },
+        {
+          "text": "6,649",
+          "imgSrc": null
+        },
+        {
+          "text": "41,876",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
           "text": "全知全能 オーディン",
           "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/578277_i.png"
         },
@@ -247,6 +272,31 @@
         },
         {
           "text": "41,678",
+          "imgSrc": null
+        }
+      ],
+      "isHeader": false
+    },
+    {
+      "cells": [
+        {
+          "text": "束縛された光輝 エリザベス",
+          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/590166_i.png"
+        },
+        {
+          "text": "113,700",
+          "imgSrc": null
+        },
+        {
+          "text": "9,063",
+          "imgSrc": null
+        },
+        {
+          "text": "6,392",
+          "imgSrc": null
+        },
+        {
+          "text": "41,628",
           "imgSrc": null
         }
       ],
@@ -422,31 +472,6 @@
         },
         {
           "text": "41,022",
-          "imgSrc": null
-        }
-      ],
-      "isHeader": false
-    },
-    {
-      "cells": [
-        {
-          "text": "黒に染まった翼 マエル",
-          "imgSrc": "https://img.gamewith.jp/article_tools/7taizai/gacha/486102_i.png"
-        },
-        {
-          "text": "114,080",
-          "imgSrc": null
-        },
-        {
-          "text": "8,518",
-          "imgSrc": null
-        },
-        {
-          "text": "6,449",
-          "imgSrc": null
-        },
-        {
-          "text": "40,876",
           "imgSrc": null
         }
       ],
